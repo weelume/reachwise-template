@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T11:39:34.815Z",
+  "checkedAt": "2026-11-03T11:50:00.948Z",
   "sourceCommit": null,
-  "sourceDigest": "bfbc83e88c561d29e535dbe5d0df0bf00448eb2876740a76812e5b1770f49999",
+  "sourceDigest": "9e267fc4922a82e387c3db24af09cdfd0c174646509402a0c55656c3b4605c04",
   "environment": {
     "platform": "linux (local WSL, Linux filesystem)",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T11:30:45.498Z",
-      "finishedAt": "2026-11-03T11:30:48.473Z"
+      "startedAt": "2026-11-03T11:46:59.628Z",
+      "finishedAt": "2026-11-03T11:47:03.785Z"
     },
     {
       "id": "lint",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T11:30:48.476Z",
-      "finishedAt": "2026-11-03T11:30:55.238Z"
+      "startedAt": "2026-11-03T11:47:03.788Z",
+      "finishedAt": "2026-11-03T11:47:08.675Z"
     },
     {
       "id": "build",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T11:30:55.242Z",
-      "finishedAt": "2026-11-03T11:31:17.517Z"
+      "startedAt": "2026-11-03T11:47:08.678Z",
+      "finishedAt": "2026-11-03T11:47:37.048Z"
     },
     {
       "id": "test",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T11:31:17.521Z",
-      "finishedAt": "2026-11-03T11:31:17.923Z"
+      "startedAt": "2026-11-03T11:47:37.054Z",
+      "finishedAt": "2026-11-03T11:47:37.530Z"
     }
   ],
   "services": [
@@ -73,7 +73,7 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-11-03T11:39:34.815Z",
+      "checkedAt": "2026-11-03T11:50:00.948Z",
       "reason": "生产启动、全量路由及静态素材HTTP验证、内置浏览器巡检通过；已停止本次启动的验收进程。"
     }
   ],
