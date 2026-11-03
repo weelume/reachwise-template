@@ -1,0 +1,1 @@
+export const navigation = [{"slug": "services", "zh": "服务", "en": "Services"}, {"slug": "work", "zh": "案例", "en": "Work"}, {"slug": "pricing", "zh": "价格", "en": "Pricing"}, {"slug": "about", "zh": "关于", "en": "About"}, {"slug": "blog", "zh": "博客", "en": "Blog"}] as const

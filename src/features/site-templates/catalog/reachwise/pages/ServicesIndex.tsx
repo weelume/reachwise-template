@@ -1,0 +1,13 @@
+import Link from '../components/SiteLink'
+import {Shell} from '../components/Shell'
+import {Section} from '../components/Section'
+import {CollectionHero} from '../components/CollectionHero'
+import {ServiceDemo} from '../components/ServiceChannels'
+import {Funnel} from '../components/ClientReport'
+import {Accordion} from '../components/Accordion'
+import {AuditSection} from '../components/AuditSection'
+import {services,faqs} from '../content/collections'
+import {copy,text} from '../content/data'
+import type {ReferencePage} from '../content/types'
+import type {SiteTemplatePageProps} from '../../../types'
+export function ServicesIndex({page,locale='zh',basePath}:SiteTemplatePageProps&{page:ReferencePage}){return <Shell locale={locale} basePath={basePath}><CollectionHero page={page} locale={locale} basePath={basePath}/><Section eyebrow={copy(locale,'(01) 全部渠道','(01) ALL CHANNELS')} title={copy(locale,'选择一个渠道　或六个协同','Pick one channel, or all six.')} description={copy(locale,'每个渠道由资深专家负责，在同一个看板汇报，以月度合作统一协同，随业务成长灵活组合。','Every channel below is run by a senior specialist, reported in one dashboard and billed as one monthly retainer. Mix them as you grow.')}><div className="services-staggered">{services.map((service,i)=><article key={service.slug} className="service-index-card"><ServiceDemo mode={i} locale={locale}/><div><p className="eyebrow">0{i+1} · {text(service.f1,locale)}</p><h2>{text(service.f1,locale)}</h2><span className="outcome-chip">{text(service.f7,locale)}</span><h3>{text(service.f2,locale)}</h3><p>{text(service.f3,locale)}</p><ul>{service.f5.split(';').slice(0,3).map(item=><li key={item}>{text(item,locale)}</li>)}</ul><div><span>{copy(locale,'起价','From')} {service.f4}</span><Link className="primary" href={`${basePath}/services/${service.slug}`}>{copy(locale,'探索服务','Explore')}</Link></div></div></article>)}</div></Section><section className="section funnel-section"><Funnel locale={locale}/></section><Section eyebrow={copy(locale,'(09) 常见问题','(09) FAQ')} title={copy(locale,'你的问题　这里回答','Questions, answered.')}><Accordion items={faqs.map(item=>({title:text(item.f1,locale),content:<p>{text(item.f2,locale)}</p>}))}/></Section><AuditSection locale={locale}/></Shell>}

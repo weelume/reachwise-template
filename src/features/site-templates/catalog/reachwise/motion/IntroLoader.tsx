@@ -1,0 +1,8 @@
+'use client'
+import{useEffect,useState}from'react'
+import{AnimatePresence,motion,useReducedMotion}from'framer-motion'
+import{copy}from'../content/data'
+import{Digits}from'./Digits'
+import type{Locale}from'../content/types'
+import{acquireScrollLock}from'./scrollLock'
+export function IntroLoader({locale}:{locale:Locale}){const[visible,setVisible]=useState(false),[number,setNumber]=useState(0),reduced=useReducedMotion();useEffect(()=>{if(reduced||sessionStorage.getItem('rw-loaded'))return;const releaseScroll=acquireScrollLock();let frame=0,finished=false;const start=performance.now();function finish(){finished=true;setVisible(false);sessionStorage.setItem('rw-loaded','1');releaseScroll()}function tick(now:number){if(finished)return;const progress=Math.min(1,(now-start)/2400);setVisible(true);setNumber(Math.round(1284300*(1-(1-progress)**3)));if(progress>=1)finish();else frame=requestAnimationFrame(tick)}frame=requestAnimationFrame(tick);const key=(event:KeyboardEvent)=>{if(event.key==='Escape')finish()};window.addEventListener('keydown',key);window.addEventListener('pointerdown',finish,{once:true});return()=>{finished=true;cancelAnimationFrame(frame);releaseScroll();window.removeEventListener('keydown',key);window.removeEventListener('pointerdown',finish)}},[reduced]);return <AnimatePresence>{visible&&<motion.div className="reach-intro-loader" initial={{opacity:1}} exit={{y:'-100%'}} transition={{duration:.56,ease:[.7,0,.2,1]}} role="status"><span className="loader-radar-mark" aria-hidden="true"/><p>{copy(locale,'正在触达合适的人群','Reaching the right crowd')}</p><Digits value={number} locale={locale}/><span className="mono">{copy(locale,'点击或按 Esc 跳过','CLICK OR PRESS ESC TO SKIP')}</span></motion.div>}</AnimatePresence>}

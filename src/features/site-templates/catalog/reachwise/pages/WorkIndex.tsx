@@ -1,0 +1,12 @@
+'use client'
+import {useState} from 'react'
+import {Shell} from '../components/Shell'
+import {CollectionHero} from '../components/CollectionHero'
+import {WorkCard} from '../components/WorkCard'
+import {ClientReport} from '../components/ClientReport'
+import {AuditSection} from '../components/AuditSection'
+import {work} from '../content/collections'
+import {copy,text} from '../content/data'
+import type {ReferencePage} from '../content/types'
+import type {SiteTemplatePageProps} from '../../../types'
+export function WorkIndex({page,locale='zh',basePath}:SiteTemplatePageProps&{page:ReferencePage}){const[filter,setFilter]=useState('all'),channels=[...new Set(work.flatMap(item=>item.f4.split(';')))],selected=work.filter(item=>filter==='all'||item.f4.split(';').includes(filter));return <Shell locale={locale} basePath={basePath}><CollectionHero page={page} locale={locale} basePath={basePath}/><section className="section dark-section work-index"><p className="eyebrow">{copy(locale,'按渠道筛选','FILTER BY CHANNEL')}</p><div className="filters" role="group" aria-label={copy(locale,'案例筛选','Filter cases')}><button aria-pressed={filter==='all'} onClick={()=>setFilter('all')}>{copy(locale,'全部','All')} {work.length}</button>{channels.map(channel=><button key={channel} aria-pressed={filter===channel} onClick={()=>setFilter(channel)}>{text(channel,locale)} {work.filter(item=>item.f4.split(';').includes(channel)).length}</button>)}</div><p className="work-filter-count" aria-live="polite">{String(selected.length).padStart(2,'0')} {copy(locale,'个案例','case studies')}</p><div className="work-waterfall">{selected.map(item=><WorkCard key={item.slug} item={item} locale={locale} basePath={basePath} scan/>)}</div></section><section className="section"><h2>{copy(locale,'去年　客户收获了什么','What our clients got last year.')}</h2><ClientReport locale={locale}/></section><AuditSection locale={locale}/></Shell>}

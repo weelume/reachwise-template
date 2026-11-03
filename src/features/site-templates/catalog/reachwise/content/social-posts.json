@@ -1,0 +1,346 @@
+[
+  {
+    "src": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=512",
+    "alt": "Post by @kettlebrook.coffee",
+    "handle": "@kettlebrook.coffee",
+    "likes": 2418,
+    "views": null,
+    "carouselCount": null,
+    "kind": "post",
+    "aspectRatio": "1/1",
+    "avatarColor": "#D4FF3A",
+    "badges": [],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp?scale-down-to=512",
+    "alt": "Post by @brightline.run",
+    "handle": "@brightline.run",
+    "likes": 9870,
+    "views": "112k views",
+    "carouselCount": null,
+    "kind": "reel",
+    "aspectRatio": "9/16",
+    "avatarColor": "#FF3E88",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-reel"
+        ],
+        "text": "112k views"
+      }
+    ],
+    "viewCount": 112000
+  },
+  {
+    "src": "https://framerusercontent.com/images/uYN9bcKFZFsqzLzQWUSswf4QIs.webp?scale-down-to=512",
+    "alt": "Post by @tallow.kitchen",
+    "handle": "@tallow.kitchen",
+    "likes": 2951,
+    "views": null,
+    "carouselCount": 6,
+    "kind": "carousel",
+    "aspectRatio": "4/5",
+    "avatarColor": "#C9A7FF",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-n"
+        ],
+        "text": "1/6"
+      }
+    ],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/3nqFQlS1bXsh1PS74cijri0AhSM.webp?scale-down-to=512",
+    "alt": "Post by @verde.studio",
+    "handle": "@verde.studio",
+    "likes": 1417,
+    "views": null,
+    "carouselCount": null,
+    "kind": "post",
+    "aspectRatio": "1/1",
+    "avatarColor": "#8FB3FF",
+    "badges": [],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/1DPklcMWo4iq1F5uWVjcytvrsc.webp?scale-down-to=512",
+    "alt": "Post by @lumenskin",
+    "handle": "@lumenskin",
+    "likes": 8114,
+    "views": null,
+    "carouselCount": 5,
+    "kind": "carousel",
+    "aspectRatio": "4/5",
+    "avatarColor": "#9BE3C4",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-n"
+        ],
+        "text": "1/5"
+      }
+    ],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/oSWgZWTjPoakKUa7CvtJ6TXueP0.webp?scale-down-to=512",
+    "alt": "Post by @lumenskin",
+    "handle": "@lumenskin",
+    "likes": 3307,
+    "views": null,
+    "carouselCount": 3,
+    "kind": "carousel",
+    "aspectRatio": "4/5",
+    "avatarColor": "#9BE3C4",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-n"
+        ],
+        "text": "1/3"
+      }
+    ],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/eMqxq3byjv5ceZYESvRLuMWVug.webp?scale-down-to=512",
+    "alt": "Post by @parcel.co",
+    "handle": "@parcel.co",
+    "likes": 3690,
+    "views": null,
+    "carouselCount": null,
+    "kind": "post",
+    "aspectRatio": "1/1",
+    "avatarColor": "#FF3E88",
+    "badges": [],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp?scale-down-to=512",
+    "alt": "Post by @brightline.run",
+    "handle": "@brightline.run",
+    "likes": 6042,
+    "views": "31k views",
+    "carouselCount": null,
+    "kind": "reel",
+    "aspectRatio": "9/16",
+    "avatarColor": "#FF3E88",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-reel"
+        ],
+        "text": "31k views"
+      }
+    ],
+    "viewCount": 31000
+  },
+  {
+    "src": "https://framerusercontent.com/images/yOk3vEq9TQ9CWpwuFmZY86mAVY.webp?scale-down-to=512",
+    "alt": "Post by @fitloop",
+    "handle": "@fitloop",
+    "likes": 3912,
+    "views": "48k views",
+    "carouselCount": null,
+    "kind": "reel",
+    "aspectRatio": "9/16",
+    "avatarColor": "#C9A7FF",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-reel"
+        ],
+        "text": "48k views"
+      }
+    ],
+    "viewCount": 48000
+  },
+  {
+    "src": "https://framerusercontent.com/images/3nqFQlS1bXsh1PS74cijri0AhSM.webp?scale-down-to=512",
+    "alt": "Post by @verde.studio",
+    "handle": "@verde.studio",
+    "likes": 1786,
+    "views": null,
+    "carouselCount": null,
+    "kind": "post",
+    "aspectRatio": "1/1",
+    "avatarColor": "#8FB3FF",
+    "badges": [],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=512",
+    "alt": "Post by @kettlebrook.coffee",
+    "handle": "@kettlebrook.coffee",
+    "likes": 1932,
+    "views": null,
+    "carouselCount": null,
+    "kind": "post",
+    "aspectRatio": "1/1",
+    "avatarColor": "#D4FF3A",
+    "badges": [],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/oSWgZWTjPoakKUa7CvtJ6TXueP0.webp?scale-down-to=512",
+    "alt": "Post by @lumenskin",
+    "handle": "@lumenskin",
+    "likes": 1118,
+    "views": null,
+    "carouselCount": 5,
+    "kind": "carousel",
+    "aspectRatio": "4/5",
+    "avatarColor": "#9BE3C4",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-n"
+        ],
+        "text": "1/5"
+      }
+    ],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+    "alt": "Post by @parcel.co",
+    "handle": "@parcel.co",
+    "likes": 5630,
+    "views": null,
+    "carouselCount": null,
+    "kind": "post",
+    "aspectRatio": "1/1",
+    "avatarColor": "#FF3E88",
+    "badges": [],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/yg9StsTkn2mS5VxfA3YnyrJNM1Q.webp?scale-down-to=512",
+    "alt": "Post by @haven.realty",
+    "handle": "@haven.realty",
+    "likes": 2205,
+    "views": "21k views",
+    "carouselCount": null,
+    "kind": "reel",
+    "aspectRatio": "9/16",
+    "avatarColor": "#FF3E88",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-reel"
+        ],
+        "text": "21k views"
+      }
+    ],
+    "viewCount": 21000
+  },
+  {
+    "src": "https://framerusercontent.com/images/yOk3vEq9TQ9CWpwuFmZY86mAVY.webp?scale-down-to=512",
+    "alt": "Post by @fitloop",
+    "handle": "@fitloop",
+    "likes": 4480,
+    "views": "64k views",
+    "carouselCount": null,
+    "kind": "reel",
+    "aspectRatio": "9/16",
+    "avatarColor": "#C9A7FF",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-reel"
+        ],
+        "text": "64k views"
+      }
+    ],
+    "viewCount": 64000
+  },
+  {
+    "src": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+    "alt": "Post by @parcel.co",
+    "handle": "@parcel.co",
+    "likes": 2336,
+    "views": null,
+    "carouselCount": null,
+    "kind": "post",
+    "aspectRatio": "1/1",
+    "avatarColor": "#FF3E88",
+    "badges": [],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/YpYjh1duUyRdFMaCaQZ6JVDbmko.webp?scale-down-to=512",
+    "alt": "Post by @tallow.kitchen",
+    "handle": "@tallow.kitchen",
+    "likes": 1204,
+    "views": null,
+    "carouselCount": null,
+    "kind": "post",
+    "aspectRatio": "1/1",
+    "avatarColor": "#C9A7FF",
+    "badges": [],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/mnE5eA5CunHm89doTbOt2H7pHdE.webp?scale-down-to=512",
+    "alt": "Post by @verde.studio",
+    "handle": "@verde.studio",
+    "likes": 2874,
+    "views": null,
+    "carouselCount": 4,
+    "kind": "carousel",
+    "aspectRatio": "4/5",
+    "avatarColor": "#8FB3FF",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-n"
+        ],
+        "text": "1/4"
+      }
+    ],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/1DPklcMWo4iq1F5uWVjcytvrsc.webp?scale-down-to=512",
+    "alt": "Post by @lumenskin",
+    "handle": "@lumenskin",
+    "likes": 2660,
+    "views": null,
+    "carouselCount": 3,
+    "kind": "carousel",
+    "aspectRatio": "4/5",
+    "avatarColor": "#9BE3C4",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-n"
+        ],
+        "text": "1/3"
+      }
+    ],
+    "viewCount": null
+  },
+  {
+    "src": "https://framerusercontent.com/images/uYN9bcKFZFsqzLzQWUSswf4QIs.webp?scale-down-to=512",
+    "alt": "Post by @tallow.kitchen",
+    "handle": "@tallow.kitchen",
+    "likes": 2074,
+    "views": null,
+    "carouselCount": 4,
+    "kind": "carousel",
+    "aspectRatio": "4/5",
+    "avatarColor": "#C9A7FF",
+    "badges": [
+      {
+        "classes": [
+          "rwfd-n"
+        ],
+        "text": "1/4"
+      }
+    ],
+    "viewCount": null
+  }
+]

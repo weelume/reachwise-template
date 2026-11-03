@@ -1,0 +1,2706 @@
+{
+  "template": "reachwise",
+  "checkedAt": "2026-11-03T11:37:43.841Z",
+  "origin": "http://localhost:3113",
+  "routes": 70,
+  "assets": 266,
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "expected": 200,
+      "bytes": 103842,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/",
+      "status": 200,
+      "expected": 200,
+      "bytes": 103491,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/blog/reels-that-sell",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15112,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/blog/reels-that-sell",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15138,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "expected": 200,
+      "bytes": 60557,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/about",
+      "status": 200,
+      "expected": 200,
+      "bytes": 60500,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/blog/roas-is-not-profit",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15791,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/blog/roas-is-not-profit",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15807,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/blog/local-seo-2026",
+      "status": 200,
+      "expected": 200,
+      "bytes": 17921,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/blog/local-seo-2026",
+      "status": 200,
+      "expected": 200,
+      "bytes": 17965,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/blog",
+      "status": 200,
+      "expected": 200,
+      "bytes": 13341,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/blog",
+      "status": 200,
+      "expected": 200,
+      "bytes": 13334,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/careers",
+      "status": 200,
+      "expected": 200,
+      "bytes": 50164,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/careers",
+      "status": 200,
+      "expected": 200,
+      "bytes": 50101,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/cookies",
+      "status": 200,
+      "expected": 200,
+      "bytes": 8404,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/cookies",
+      "status": 200,
+      "expected": 200,
+      "bytes": 8441,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "expected": 200,
+      "bytes": 10049,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/contact",
+      "status": 200,
+      "expected": 200,
+      "bytes": 10104,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/privacy",
+      "status": 200,
+      "expected": 200,
+      "bytes": 8404,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/privacy",
+      "status": 200,
+      "expected": 200,
+      "bytes": 8441,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/pricing",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22344,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/pricing",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22556,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/services/branding",
+      "status": 200,
+      "expected": 200,
+      "bytes": 11859,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/services/branding",
+      "status": 200,
+      "expected": 200,
+      "bytes": 11856,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/services/content",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12771,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/services/content",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12800,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/services",
+      "status": 200,
+      "expected": 200,
+      "bytes": 92951,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/services",
+      "status": 200,
+      "expected": 200,
+      "bytes": 93141,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/services/paid-ads",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12461,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/services/paid-ads",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12496,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/services/seo",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12871,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/services/seo",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12893,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/services/web-design",
+      "status": 200,
+      "expected": 200,
+      "bytes": 11860,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/services/web-design",
+      "status": 200,
+      "expected": 200,
+      "bytes": 11877,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/services/social-media",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12364,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/services/social-media",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12355,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/team/amara-okafor",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18719,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/team/amara-okafor",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18935,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/team/jordan-reyes",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15090,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/team/jordan-reyes",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15110,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/team/sofia-marin",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15109,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/team/sofia-marin",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15123,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/team/maya-chen",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18995,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/team/maya-chen",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19135,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/team/liam-novak",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18693,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/team/liam-novak",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18865,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/terms",
+      "status": 200,
+      "expected": 200,
+      "bytes": 8388,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/terms",
+      "status": 200,
+      "expected": 200,
+      "bytes": 8423,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/team/theo-park",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15105,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/team/theo-park",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15111,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/work/northside-dental",
+      "status": 200,
+      "expected": 200,
+      "bytes": 37741,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/work/northside-dental",
+      "status": 200,
+      "expected": 200,
+      "bytes": 37812,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/work",
+      "status": 200,
+      "expected": 200,
+      "bytes": 65515,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/work",
+      "status": 200,
+      "expected": 200,
+      "bytes": 65493,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/work/haven-realty",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15209,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/work/haven-realty",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15231,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/blog/agency-or-in-house",
+      "status": 200,
+      "expected": 200,
+      "bytes": 16593,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/blog/agency-or-in-house",
+      "status": 200,
+      "expected": 200,
+      "bytes": 16622,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/blog/landing-pages",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15485,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/blog/landing-pages",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15459,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/blog/content-calendar",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15051,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/blog/content-calendar",
+      "status": 200,
+      "expected": 200,
+      "bytes": 15041,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/work/orbit-legal",
+      "status": 200,
+      "expected": 200,
+      "bytes": 14904,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/work/orbit-legal",
+      "status": 200,
+      "expected": 200,
+      "bytes": 14914,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/work/kettlebrook-coffee",
+      "status": 200,
+      "expected": 200,
+      "bytes": 37393,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/work/kettlebrook-coffee",
+      "status": 200,
+      "expected": 200,
+      "bytes": 37461,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/work/lumen-skin",
+      "status": 200,
+      "expected": 200,
+      "bytes": 36432,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/work/lumen-skin",
+      "status": 200,
+      "expected": 200,
+      "bytes": 36425,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/work/fitloop",
+      "status": 200,
+      "expected": 200,
+      "bytes": 35695,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/en/work/fitloop",
+      "status": 200,
+      "expected": 200,
+      "bytes": 35749,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/not-a-registered-template-page",
+      "status": 404,
+      "expected": 404,
+      "bytes": 5336,
+      "sha256": null,
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/poppins-latin-400.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 6496,
+      "sha256": "d66325cbb6fb2369c08e6c90b8481abc3b8d1dea8c06399e138b4c7e6aada6e9",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/poppins-latin-600.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 6592,
+      "sha256": "8ae4caa99b41b9ff5d046de68c069d80db6375a89dc2f0982c0b2ad08a354df1",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/poppins-latin-700.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 6464,
+      "sha256": "3164a71361495f62db1a84c3312857ef27c9249a7f8c69d3df123cb295e221f8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/Poppins-OFL.txt",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4391,
+      "sha256": "29e91706dcef669ae7014fa8a4cfd2484c37c3038acb7c57a07a0a7b5515c088",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/README.md",
+      "status": 200,
+      "expected": 200,
+      "bytes": 345,
+      "sha256": "a10c89d5f83393da382ce9f733f7d7b75479843421a991dcbd02bd41e40074e3",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/0cc2b1880e-yg9StsTkn2mS5VxfA3YnyrJNM1Q.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 217732,
+      "sha256": "fd96702bc422a5a5adfa79cc246f9155936e129cdea1ea5b394303561d5cf238",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/0fe0dbe797-2JG0A1F7J2tdiUI5Y6YXMfSc.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 134386,
+      "sha256": "64132b366cdc17b56d829ec75a415b93293648ed768d81944f6c4ed9edbc6ba2",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/18c286b207-0OweuTthx3Dz38pzze75lZw78M.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 377522,
+      "sha256": "ccc030d74151982d36f46234ac80df179031a2d0ae6f3866b7f54e9ef344902e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 135216,
+      "sha256": "d0b1757a51e15212f44b576de974ff231be2fd384bdc7b340607cca81bc8a3e4",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/2666a469c5-OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 6652,
+      "sha256": "3d9aaa88875ebe3c7140cc0a43dfd88f844008e24720bb5095157b66c3a15a52",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 227434,
+      "sha256": "b2bba3e4a850c91019c897e72aa5e80dfc2d607b88b672bb28aa3d8c5155f638",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/28da461c36-6DvH70VZHpvmLKgVBP6M3k7q0A.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 194056,
+      "sha256": "e7e705b39ea04bf00ce3d2507778d5c0b3994a1dd726970ab1dbd09c6232b76f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/29ec2a1bd4-Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4504,
+      "sha256": "8d68edfec2489a4cf7478dfeb1bceae1d4661fe42d887ec5e01e5e3f0e12d2fd",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/2c293e557b-waybill.jpg",
+      "status": 200,
+      "expected": 200,
+      "bytes": 38839,
+      "sha256": "9cd6ddd690b076e9156a5939021b0f379ab0a96704d9b6c0686ff9d7469e76a6",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/31ff1b975c-wsuu1erVb5sN8rKbCmgWNUVvito.png",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3996,
+      "sha256": "e6c812cf85162e0e845edb1e68b47f498ede0052266f3b3a775e800532821b77",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/35948a2ef5-florin.jpg",
+      "status": 200,
+      "expected": 200,
+      "bytes": 37792,
+      "sha256": "3b58d6eaff5ea1d629ff29e17230b2803341a04dba15111218c67c249b578706",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/3d4123d99e-87wKn5rFSjsCMUA9My0OUYJ4dM.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 180152,
+      "sha256": "961a8e24659c914f03ca873c94ce57cee6c768e4f568f9b73fa5ce1641c6044e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/41a6c5b0d7-uYN9bcKFZFsqzLzQWUSswf4QIs.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 133586,
+      "sha256": "9a4f5a2837ee888dd3681464b3cbf5de0f9fbc94271f355c765379b4c83aa138",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 118478,
+      "sha256": "e0c6c0b157b2edab126bb2a3172dd3ad3073b2a40bfc0fbdd31828517b283e2c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/4b38c6907c-yOk3vEq9TQ9CWpwuFmZY86mAVY.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 246874,
+      "sha256": "265bd160a314a59cc881e0428d847f2775b86584b991a6049021220c985b7fc5",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/4c6f49e10f-pHOBF7LHy4BbDr36flWPxPYRixo.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 269334,
+      "sha256": "07cc2fe7d68d75382cc673bdb29a50d9f7c7c1d23059e988eab33eb52ed60312",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/4e2fb5e4f6-LBJSHBzWF5iwJGgfJgtazdyk8.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 63398,
+      "sha256": "c6ee192f46c37d17b1f577e1cc13ebd71957dea4d1ec51b84c98714a96f02bf8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/59df78ccb9-x1XkAfPNF95aDnEhP091G8c03KY.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 52902,
+      "sha256": "2c82a0b8da30076e1bd23e0f778a90b81751d6efa210b0842c4378dc078f38b3",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/5afd609911-GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27380,
+      "sha256": "362b168da82d69bc67d2a358fa20c59151cb4ceac8a5506be6baef5e6827fa42",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/5d470dc7a3-5NYoUMxcMZ7W73IVonEHOzeu5ls.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 88122,
+      "sha256": "c06246c9af781c1b58faeb2665bf80b0adc62a6ded62c7ffc8d293fc3681f14a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 215132,
+      "sha256": "b593b74b8c70c0c4a81d9e3f8e0e92e29c01f12dba995389b7a1c395cec3e07f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/7055139055-P2vtvmpcIxWwVrN78FW1tzLdNs.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 212790,
+      "sha256": "5d2ed83dd369e659f0c4412a2e9508aa8d2f27a0edeb752b9c3c9d5607c8eab8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/7374cc8973-x7HJbXkyp2obobP3ORbr0NqQ0.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 246664,
+      "sha256": "ac03e4c06f09b3488c794707c0f1413e4f563180f70ac584d050d2af152b1175",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/740eb247db-s0jwUqVTFxGplLAwU0WLa8rbdw.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 118708,
+      "sha256": "df44e55b707ab69159110f793b35ae32e6d0e25672502491d1f1278c32b812d9",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/82b5665b27-3nqFQlS1bXsh1PS74cijri0AhSM.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 88404,
+      "sha256": "4aad00f8fe4b65a18d8339410a3e800c54df1bea215adf64d439ce11d7ccc590",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/83ea9e95f4-YpYjh1duUyRdFMaCaQZ6JVDbmko.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 237688,
+      "sha256": "13f058635d77c67798cd944afc816cad423868fb6896e288342e5b5b437ab92d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 73144,
+      "sha256": "6eea864c1ce9567f1d67acabcbf6607c7437924836d8d904d671e62fc7e37a75",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/92b2c646ed-UaRhpGt07LHQC00QUITjNUBF3o.png",
+      "status": 200,
+      "expected": 200,
+      "bytes": 998,
+      "sha256": "0ece5ecb5f7c93bccb54ecce1bfc2964d39b0f5343c7d14cc51f8aec2e8e780d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 197352,
+      "sha256": "29e01681d6d0b32cbb56ffdf10d1c37a60f79acd2bd84194d272c6e72f188a29",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 72606,
+      "sha256": "0da9a1fc3121be13e668ed304ed00768473e66600cd2e1a2bb109357af51c194",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/9cb6bce70f-kindling.jpg",
+      "status": 200,
+      "expected": 200,
+      "bytes": 36545,
+      "sha256": "5b87c656b593ee275a6188a288480ff40403e9425c52f2beee30350470db2a9e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 253510,
+      "sha256": "e3f215250391003141690d4f623b2d7acf11d038045d787dd1c0efdc42964679",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/a8f004aadb-NtmyAnUBIcfQXkgdgwQGB2dIVY.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 136128,
+      "sha256": "465fb33335fa91245a54b7e0ea70c5e97d56ba397fe2d809f84a463d1e3de590",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/aacda1db8d-blockwork.jpg",
+      "status": 200,
+      "expected": 200,
+      "bytes": 31734,
+      "sha256": "b4fb04e8146b23f0a19a0db04fc1e852e34c2db5abce734a9d034b18c8c09ff0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/aca614b1bf-Od0sLPh3UNsr4tc9mwj2XeBTyb8.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 207220,
+      "sha256": "b876ead95d1c7839a915e220380edd2c28fa9958cdc8ddff09d67152417e6989",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/b055aed328-b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4168,
+      "sha256": "f2207c07c5ac395d1d8c33f46655ded6aea7e66269431e3f943693c0318441dc",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/b134768b72-4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25224,
+      "sha256": "44c4e39bff5e76652a24a872cbebabccbcfb20f62c4633b27c1f2745cba86b56",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/b62f249894-YqwmM7lRs3vsXpr2grgwzyJ62LE.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 34878,
+      "sha256": "e4cd2700c064eafd69bac74c873b5f6c0196cd35532ed816412b4e615270df06",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/ba02b29b10-5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 8896,
+      "sha256": "68cf5b575705c54b915a806a6666344a65b010388b588311629a8009af66b87a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/bb3791e96f-1DPklcMWo4iq1F5uWVjcytvrsc.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 116174,
+      "sha256": "37416bdb143f00a0b9831c73e61f4252e2362b5ca9db091aa41e0ff87dfa6884",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/bc29d85f20-RqmMNLZRFBKyGJxcMWBx21DI85Q.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 50370,
+      "sha256": "54465f6b3fe190ebbd0eff1f1cd95ddcebe2e2441dbb15fbe2500926710f252b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/bfae02c453-eMqxq3byjv5ceZYESvRLuMWVug.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 253666,
+      "sha256": "8daa72805fd51f09da66817ade9d47b17207beba64720de16adb90a1c599d5c8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 86368,
+      "sha256": "d7264babe931a5af1dbef65604f90dac8a3a197e20f3b535569e1d85c791a105",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/c7f74d6e04-mnE5eA5CunHm89doTbOt2H7pHdE.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 185852,
+      "sha256": "4b256da6d6230e442710b279b56dab0ba500bc5704666cbdd2ae7c080c322669",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/ca74d67019-JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25348,
+      "sha256": "88f8b52e9e88c8334d8a644d652c94df6bdf25c836729609e9a8f83d35189d11",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/d0ce28144a-4iCr6K5wfMRRjxp0DA6-2CLnB45HhrUI.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3020,
+      "sha256": "7e16c88d4fcca3dc553b31877c03b2937c8fcc86428c37511608a60210ccacd0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/d342a03511-EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 7116,
+      "sha256": "af9fa49a46e2b4bb090462e8222f43b426593ce31aca150401aa8ebf5c5b5929",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/d4ae66a90d-HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 244674,
+      "sha256": "d507afb2855e6286f8174a3ddd4caf5dd859db4d1a70f50f023d24b2874dea0a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/d5da033fca-FkGV79fUruxxZYYaCa5EOB8RME.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 38180,
+      "sha256": "19340b7a43a2776e6ff4289b9c40546c37ad7cf569c2523b1e8004a684b1ad17",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/d5e382026b-gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 65530,
+      "sha256": "4a63fb1f1e484e2b351f3d8920de993231f3ee37c1c8ca2d06451c842094da6b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 159264,
+      "sha256": "f7a4f379f63bda5b47bf23dfe2ffe2f9a6dc88d6f1ae4937a88d3bc2e09ec42c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/d8468fa5ea-oSWgZWTjPoakKUa7CvtJ6TXueP0.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 51460,
+      "sha256": "21f9a5ca9c2cf1c0f97d8b79d3b4d9a451468a03671ce955e5f7be4b3a501d3b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/dca25f605d-YYdQD4OSWKjNOGVWs9tCxMobw8I.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 59832,
+      "sha256": "849f42cdbe97d37b8c720c77b3ea843045e6be90530c50b1db7509c5d4a61cce",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/e210f3b81a-reachwise.jpg",
+      "status": 200,
+      "expected": 200,
+      "bytes": 232254,
+      "sha256": "4280484f75f54be512b84025022ad2d8cb8200fab2e3044a5e576a9367c7fbcf",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/e98db32b03-4iCr6K5wfMRRjxp0DA6-2CLnB41HhrUI.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 14112,
+      "sha256": "54f55ef4bf2e5789b18f862e037e4eb28920048f1d8e7892c090fda9b698312d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/ec987030f5-rEdm3uZTQUbNWDHlnB6sQiVzmno.jpg",
+      "status": 200,
+      "expected": 200,
+      "bytes": 187791,
+      "sha256": "a6092691167d2f16868811a8bcfb2eb62ac0b8ade2da1e1fe63c10ae73dbe40e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 107010,
+      "sha256": "8d0e90f602c37594693909d07a38ef1d6ce3db87f165516a20162f42792978c0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+      "status": 200,
+      "expected": 200,
+      "bytes": 237232,
+      "sha256": "dd219d447801315720cefa4d83807925d0a25ebfee43022f1e4dc0a9bc03cc8c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/LICENSE-SOURCE.md",
+      "status": 200,
+      "expected": 200,
+      "bytes": 469,
+      "sha256": "811a860fd8a99bd3bfef6f3084a92af64fc19715ff9e216ba2e8a13b174f700e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.100.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 28496,
+      "sha256": "4808ae125365a67b49da38ccbda6bbdc98af65ece4422a3912267ed027ca106e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.101.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26156,
+      "sha256": "82a711e8c5cd5b4e68e373301b41ec06b35326de03ebafbcc40913579a2a2f24",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.102.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26796,
+      "sha256": "2275e3d1693b4a6500f32e604bed126ecb4b4ca34be6b5210f4117bf66b7295b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.103.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 28028,
+      "sha256": "19f23f06b08ea079098429918786b00b12c3fef7ff08247f3e1a7c00de17e906",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.104.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26908,
+      "sha256": "d91a67f951735a8b8a3f67a4266e6767c14cd5c3eb4980cfc9a1c1d4ab4a93d0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.105.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27556,
+      "sha256": "6205bb9dbd71fecdc16fd64a18a950872d8a10d6cef95fc559d3631da9bde2fc",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.106.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27820,
+      "sha256": "18a5d0c0a19c630e4ed8f42b96fb8635ec1ec0965e02b94aef772defa02b5b4c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.107.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26916,
+      "sha256": "25a243f93059e8b2b2dc593f0519f6c7a76dec52606c199bb43217e0d8954bf4",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.108.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 28176,
+      "sha256": "c67d2d298accfdf3f9f1e6cd8a5808fcf512940562af714d8bf420d8ee4ee016",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.109.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26468,
+      "sha256": "71efddfba181e01b39da757dd1952cb48f7bbcfcb65db0262070bc466a320650",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.110.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26812,
+      "sha256": "b359325406a71a0abdd3d2ccc45282237160647c537c2eb4959884d20f28e88f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.111.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27624,
+      "sha256": "c375d70bed8af4262451278d2ee5bb78123751cc647bce7d6c3aab22c6c35c4a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.112.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25620,
+      "sha256": "58f8c7a2578adba337ec110ddd16dcd9afc318f313a928c0194d8821bf051aca",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.113.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25852,
+      "sha256": "65a0cef9e17cfa78e0211d7e0a8684387af69a32b687b5795363b42d3e42f015",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.114.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24976,
+      "sha256": "3264c0b71f6e54d63780392e80a7b063eb216fe32de1bef00da4110b54124282",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.115.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24476,
+      "sha256": "1d60b6ca0d3d1c3db88026115e769a0bbcbbfba7775e12702b3c23ad6b862c1d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.116.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22636,
+      "sha256": "5c67fbddb46594787ec03e8c01bb2fa3670f494b29bab361b54efe5fb555231f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.117.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22848,
+      "sha256": "12c001b3c2a7b1a4b88a2e945b89c77ba0b1d498b1c1084d2c81f2e89683d1af",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.118.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20096,
+      "sha256": "20ec1551b7a5ae92efabf13b1251ec42e416e39d76efdda90e5b002e8fefcc2f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.119.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18420,
+      "sha256": "2ea69db8c9290b93ccc6f953113201523a6f573fbe51f0d360c37178b5e9ce5b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.21.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4920,
+      "sha256": "751a24002aaf682c5a690bd4bece1b9f43ad03b4ca915d78b027fde5392d2e69",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.22.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 30456,
+      "sha256": "2b1b3855ca3ada4d66e43a3d70cc1a0455e44068cc232736e35ede2560ce38e1",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.23.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27784,
+      "sha256": "ea83f9ce411b37f3e4f1e7acc074d76c79340d9145e966c028863693f0e92640",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.24.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 29180,
+      "sha256": "8115572a4bd01cd1c9da33825b6f20a8a113b5abea3de96978d6abc87accb935",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.25.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 28440,
+      "sha256": "e3f0a4fa145028d7ccf76d6b463495083f272620d2fee54b75e5d63717a47176",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.26.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24748,
+      "sha256": "4b9fe9bee19bafcd2f0b9a20ab706ed7ac7d4e93bbdc76c5d3a2b74e9a2245b1",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.27.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21964,
+      "sha256": "b6ad04108302bb794871f5bb96924730f00bc5ca50095627b2f1c4b47917e9de",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.28.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22764,
+      "sha256": "a4888e3c2bceb28490c6b6540b5b6ab80acbfb4ac70b3d642f10e64871f02a84",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.29.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24928,
+      "sha256": "0377cf3473f86512ad4debbd63920fbd2c54efb0fea2922e9d857017d432296a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.30.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27856,
+      "sha256": "3f3b6682eeb1abc88b1740dedb31030eafa8e516bbb495ce81848cf35dcbe525",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.31.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23344,
+      "sha256": "13a09bf0d44d0c7db6e7e599d9c8e9f526d7154b6f64a60cd454e3612adf68b6",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.32.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22476,
+      "sha256": "66e9caf1f9242a9a0b2e245d749ec57adf9f558edb74f88d0126165fe3149540",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.33.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22676,
+      "sha256": "80980a9fdb74098ed203b1433f3bced1f10cca90389e8d7a07984ce21b8aedae",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.34.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22484,
+      "sha256": "05092fcdd237982645c9f5bfa0c473cd8f9d33b31a1ec0a84b68a83d6cec72a9",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.35.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21752,
+      "sha256": "f5a7da9c7a7d90b64db4d5690b4639007ea707ca1a6c47ebe8a87dd122cb0227",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.36.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21248,
+      "sha256": "35e27a0544f9108d02aa3d2deeec987d996e7ab949c9df24faf57c55323318fe",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.37.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23988,
+      "sha256": "6441b5498d45f5442b373474b45fb2f65007bea3c564ff91b427e6ba8d62579c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.38.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25596,
+      "sha256": "0a464edbeea0d9aa57d53111b30b70504ab88f412449b64e41ee9cc1c4ee864d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.39.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24252,
+      "sha256": "2c25209c28c3a9ec7dc66580e6c59db5527155e2e4c5915f6f780aa1dc39cd49",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.40.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21584,
+      "sha256": "b4ac654caf55e8f20b8e2ed90f9160e20972800789ee1e15999649acad4c8ed2",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.41.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 16860,
+      "sha256": "d167129eed54e3740be70a6f2a2be6fa458abe106bd953bea6dedf872fd46bde",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.42.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21624,
+      "sha256": "e01dab9353b136500fc2eb48e462dcca9ebee11339419b2d47ce92b0900168ac",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.43.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22000,
+      "sha256": "eb716c0737e3209e43cf11d33d76aec8099dc7e5247b21e65021df2f0ec1068a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.44.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24192,
+      "sha256": "8ecae15655072084fcd80b25c304c468a3c66fa4c53d978f8fb3ce6d04039d1b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.45.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 30920,
+      "sha256": "4827a7db553c6e4dc54a4925efb70a2c6e3c6953b501b8d93a8ff39196dd9bc0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.46.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27652,
+      "sha256": "2fdd7a03a4e81cd7e5933cde433fcd75c9ffef861b8292efc39687f4487cbd2c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.47.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27116,
+      "sha256": "bfe88dab6b9b015be1de6295601d3119330b74e2460c76364b78e8d24441366e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.48.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23148,
+      "sha256": "1c1b62bdbd69d6d1b9e212c0bb00c01f25113467a3f966b84dcfe9765822bced",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.49.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24556,
+      "sha256": "41d72645e4f80b60619cb8427751d855d6ccea9180e2e3d55a4675c6de5f9d9a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.5.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3896,
+      "sha256": "d2907caa6902851414506c26dca37b6e72c60f64d168a73ae3a1cfd3bea3166f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.50.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22012,
+      "sha256": "87abf18dae27b03130caabea6ff131bf801ece0a00a0b36df6d1de39462d77bb",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.51.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19400,
+      "sha256": "0a130dd14344a35d74366e38de3cf07a92d5b4ca7582c708920409101076555f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.52.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24156,
+      "sha256": "d56ebfbe3eec5ecc07bbeae8b235003a81111cb970c0ebc598b47fd98f860fe4",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.53.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20120,
+      "sha256": "8f0b4e907270443b4864f363902437f5f3c4d93cf7722f58f1f43aeafac5b321",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.54.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24172,
+      "sha256": "a098c89e5fb789e69d75aea61b114e333142f586d56340936c1f6958b8fd051b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.55.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22872,
+      "sha256": "e754bfb17661933bad312c5f059d2a60cd216f68d6f81827db658fb242f007aa",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.56.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25984,
+      "sha256": "ffa50e3be788140c45ffe847b9938fe29cd334e14ff00a15b7a02042d1568d46",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.57.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25564,
+      "sha256": "8a0a8eff10648a807ec01c4f23110b1630c08f0c2769f02f01751ed355a2f58c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.58.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27764,
+      "sha256": "4c14c86e9bb120a0ef3a2d8bbf42fd6008d8f268bb4ca68f40153bc652fba386",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.59.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23608,
+      "sha256": "73dd87b83bfda9023933a9f8658671208b1d8dbf6077ea1cd16e2081d1364267",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.6.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3388,
+      "sha256": "edfaf5a8f5a70f15bf29c88110b1ca8b7d6dfe736f280ced5edfabc2ade99500",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.60.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20312,
+      "sha256": "f774a200335d0d84cb7e08f997e7eb67a1e7c134efec513bf387c6af831a371b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.61.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21320,
+      "sha256": "bfc82972785302ba052416cb85736260e4769b8e9349dab702cffcf51ab76e03",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.62.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26528,
+      "sha256": "0c75fdaed9ddc8eb48abd04e2f9c7545e520e6d391ddd30a9f79ee4656e63b54",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.63.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21852,
+      "sha256": "c35a25c4e621ec55e626bdcbda40c5165763c685f1fc6d5616477d60ed47e86b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.64.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 17996,
+      "sha256": "054f57c80a84bbe45af0755c8e04cb57c73bb29815e880449534d3021e03de26",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.65.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19180,
+      "sha256": "92f1689661357f1269d0b543013a214c87b2ff091f0835659acbf91aed3f625d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.66.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23912,
+      "sha256": "e967a8abcce44c33fc3a6d4eeb7da418de258a9c7596fccd7205ecb42d3a65ce",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.67.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26156,
+      "sha256": "786efb9ce2c5be54ad3971de0ac3e12486763208cfc8cd7611e85c01d131d640",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.68.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21020,
+      "sha256": "1ca520c651b8c6c7426ca785abebf4aae441ab6defd35fbfcbfb71fc965629ec",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.69.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27172,
+      "sha256": "09bc2fa4904339cc7d7064fdc1c5241c45cf3e52f01afc027822a2c1123dd555",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.70.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19568,
+      "sha256": "aa343d344af9eeae41a567124a44ba4e3de360273a851dffc12bdd5266810917",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.71.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21584,
+      "sha256": "1f7dcc86821971ad2f2aae37f1b12d9d316429c5d442f1ad72b8eb425c49f56e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.72.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21324,
+      "sha256": "102b12f1c02c223e137b9e64c0df5a9200b691e3463e2545308250c6f899fcf0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.73.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 17732,
+      "sha256": "812e6aac2cd87ab82e9ce58f97c48ff6b8f5fec651e5b37e86b92bc87fc9a76a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.74.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25804,
+      "sha256": "56c586bd8d895f407ef2789d85449f0e5678f483c27d88cf495a7636e10193cd",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.75.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21788,
+      "sha256": "231e357597a654d5acef643258adf8a10aec441b12a98229aa0e72bf642e80b9",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.76.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22340,
+      "sha256": "017386ef7dcde4efa6eed8c3935e8cc92e7a93c1c3a7d6479929115aed5df92f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.77.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 17324,
+      "sha256": "36ea582f92e12fab3cca568138ddb8c49cfaa573edfa1bc371dddd2795507285",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.78.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22956,
+      "sha256": "681e0e9e4b5cd0f6fa731405f4c284de71a2fba825322a6d89b0bcf20ad04453",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.79.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18780,
+      "sha256": "4c236665a70e2739275e5a2aa7469b839ea470fc498511f45b4afcc6074f2889",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.80.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 14532,
+      "sha256": "4f2430e00c7b77fa48aeb73af3a2848ea9d793ac9fd0fe3a49bdfe382ca55f22",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.81.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20904,
+      "sha256": "14cf83af7e299d352c7a4f5c4b5aad82efddd6e179ec130ea7851963b35aba55",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.82.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20584,
+      "sha256": "a2b7f647b74c7c9d5745c5e0e22681e1c148aa0fdf9e3d3e819c45552335bde0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.83.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20636,
+      "sha256": "adf48c42fa7cf58881ffb2f06e6405b8691c044341a2e7a38216898c872b02f9",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.84.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 14720,
+      "sha256": "e33b6f92064ff808d6b36a992aacc4e2d44e4eb9d494171a97bb2a2f779312ec",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.85.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 10588,
+      "sha256": "ce5ace88b5bdfac9d01a5e97a7e0ecd4893789d5d174bc5e9b9243539500e995",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.86.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 6684,
+      "sha256": "ccbff76f8258e1c3432902478d9dfde22126e3fd761b065dcb401762c2dd36d9",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.87.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 1192,
+      "sha256": "db1833bb93ebad6e175cebe0ce63cf85e57ca6e504035ce2c2736fae3638a04c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.88.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 1656,
+      "sha256": "f259a4b1b365b2bd540cf9645f3c4c31b3224f9d2d889fdb4c4ea139f430cc53",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.89.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4192,
+      "sha256": "0836afb86055614b13d28f904d5263f04f0d85668eca6c2badcd9679ba2de792",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.90.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4076,
+      "sha256": "a84b2f68d7947d5f4c7fa95a753bd7baddc560e727cbe14935a46fc894ebcddb",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.91.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4688,
+      "sha256": "c14dff43d65c47d5b8584726e3656a969fb583f29287051b2c783a200de77a9a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.97.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 1640,
+      "sha256": "4b4c9cc5551363b5f890fcc15d99992db446d1574c6fac4fd5884491133bbcef",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.98.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3500,
+      "sha256": "45c422c89faa98d2c0a99b1bb1ad42ad941169801078afba5c2f8117e45d2a0d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.99.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 7856,
+      "sha256": "adc512d8a6e4ceb374765e8ed91c0dc752813e426485dfdc293dbbc0a6ecbe27",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.css",
+      "status": 200,
+      "expected": 200,
+      "bytes": 102106,
+      "sha256": "3860c5cc07a94d51cbf3a5a66d6cd9c561b0770cf9e54028456d88670c7c9373",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.cyrillic.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 6112,
+      "sha256": "20dca333adfbd97e265f0a14d8336a315c906efdfb87e05382e7ab09de3cde0e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.latin-ext.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 11644,
+      "sha256": "f9f34df5851b82d826c8e7de930edcd535658597519ee550afb863afbf228566",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.latin.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 13160,
+      "sha256": "1b382f7f50365d12e83f292ab379d73e3dc3d7d3fd616f6d2c3c0ec22e8d9c74",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Bold.vietnamese.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4428,
+      "sha256": "3f77a3f38dbd6110af75829f9a154f4a3770d3637decc854a5423f21f19fa2d8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.100.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 28368,
+      "sha256": "6941d7403b38705c71c9668998139bcf135e6953aa6c8ee6b7211d517d93401c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.101.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25984,
+      "sha256": "cf962ac2aff5f8afc167680efe98cddc53125947080a2863bf2c1269290de949",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.102.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26584,
+      "sha256": "b701933021d0a4a831f2a228435439834099991c445a77b5111f500640c46b21",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.103.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27900,
+      "sha256": "0b965d5d552c986f1c95cdedb8dbd98fa986b46bf7a2a352a15df8bb56d5376d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.104.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26704,
+      "sha256": "04ce3be4e9d6f6f1945ea0ca172e5d34428bad919b0b9986652a38b7473af38e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.105.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27464,
+      "sha256": "8d2744e92842299032b19f22995a9c9d94b73505230bf2cc355b95c73c257b24",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.106.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27536,
+      "sha256": "a53d3fd0bb90149f64f1e9e0da8a53c35c094ce5d1fc389ac9cfdc217027808b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.107.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26760,
+      "sha256": "2e8ff88298a9a832c401be3df6f1d8524d27424f7c334ae105384ac16908a295",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.108.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27740,
+      "sha256": "f38cd7ca16255bbb5768fedd60188706a2e0a4605eab4d050784e870b2177dd0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.109.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26288,
+      "sha256": "f7cf3ac2988ffb509d62430c0a332e2286dc81b37c1eac45e528d37a0af5cad1",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.110.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26500,
+      "sha256": "43f32a90c17899d0cbb6a39a546112de87c25937bde863dac5dfac85ef447230",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.111.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27412,
+      "sha256": "6bacf09d8446400c8034d2c471e4f557e5ed721c36e7a543ce6a61e94a747a72",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.112.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25376,
+      "sha256": "f16421d71630b63d3526fa23d0da9d410a2a71515b8812ec2ff194f84d9e1c3e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.113.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25508,
+      "sha256": "48144fa67dbec30cc8a7fd468ae13d4b5fa4d673aacc9412e29dc3717ad1930e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.114.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24780,
+      "sha256": "ab10b88cfc4409033883ec6f8d46029514c5338ea6732615ab6546b2bea4a6ee",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.115.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24296,
+      "sha256": "ef633f493ed52768d0b9c2bdf5a61671749e5c527cee4fff2d8d53b8673acfe7",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.116.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22664,
+      "sha256": "63fc7bd1156851779a31000e8c8c02c50fe583e95baf34a2efa83b5021bb6b32",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.117.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22452,
+      "sha256": "8fb860941c8166981517fad0ae17e4193423947c132a7395ab5ec093555cc0b3",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.118.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19956,
+      "sha256": "042ec1a331c642bc5e23df5f07d3cd3761d3c2d01c19f24c33174b60be9a3656",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.119.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 17756,
+      "sha256": "54d8a8a7de1ef2d1312aec133251c11962195c1d9ca1479255dc879989cb7f4d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.21.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4908,
+      "sha256": "41f763e2bc4be7d1e6e7ec60395c67a0e92f287a2f82eef1c4f0c12172c7b717",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.22.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 29520,
+      "sha256": "90222ac36c2e861f6183d93c84c1ca75e24a794a027387a9873b8950ad2692b4",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.23.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27328,
+      "sha256": "f1eb4cd39861fb1d4985c4be85f16da86c5655b87f77725d0ac54ec556da7d3f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.24.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 28692,
+      "sha256": "e914e3bcb1a27a17a509a786f430694a7e25870d1fccbec2927b617a7676066a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.25.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27824,
+      "sha256": "0e562ad5784e9ad6548921c1dc5f2e0837863066f230b648d3dfaf7a4ed2bef0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.26.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24728,
+      "sha256": "695ab8e79bc748b00abe0c144531c7107449ab1db0230be8a1ac0b816d0c2ab5",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.27.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21616,
+      "sha256": "5517c96b07e6afea3030162bff7ac878a0e1e98708d1a87be0a84f5d646363dd",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.28.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22268,
+      "sha256": "b3a4cc990a73109a4fadcd0bd192fe781292da05d97e6ddb66133ae1f0baa567",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.29.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25264,
+      "sha256": "730cf43fad97b173a76fe919ec44c5b5f23a1cdad4f42f6d7b9b6b3cb1a429ae",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.30.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26956,
+      "sha256": "7cf6fbe84dbb90495e090b5e7b6f3c5ac929bd0ca5cb0d3d4317a55e8ed89484",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.31.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23076,
+      "sha256": "5c8db00adacff4034c44a3fc23288ff0b0cd6d411a8d4f416959bb7c4f57b2f8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.32.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22028,
+      "sha256": "4a3245bcd6c7870ab26c4df106d79de1e8785315eb7cd1c5edf07b8136d0485f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.33.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22656,
+      "sha256": "6ba5634f1a96a241c54ecaec205c11e7beda8ce47b365a3b0b643945ad118a92",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.34.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22372,
+      "sha256": "a04a9d9c2c03cd991d70968aaa6f60e1e2ef9c02d696661d79b09f15964a16b7",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.35.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21484,
+      "sha256": "1e23f84816f914584383fada3d7df061d46925ddacb7dc196e012504c5d3b733",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.36.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21352,
+      "sha256": "c9ae14a7db29fd818e0b17b8dc24ab2dcad3d89b7e5a2f0653d0faf64d3bdded",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.37.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23848,
+      "sha256": "52448b40458f5a3074bd9c95fa7862288653f7ac03a08b1f7d2eac2cb9937800",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.38.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25424,
+      "sha256": "1216990180df1f91a4099cdb79cfd0b304551921628944301a1971a9f54c9ab6",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.39.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23980,
+      "sha256": "bc389b6a3c52de1c0d2c4f6fb9957318d80fb72c1a5b2ab2fed40c51db344099",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.40.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21320,
+      "sha256": "37662200083a2b42260c049b7bafd26ef1e6438801324400e454ec36b88d9461",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.41.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 16588,
+      "sha256": "4f5a90bed0ac7d0700b9baf838cbac3598efe642d14269fdd0463d869d5bf18d",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.42.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21220,
+      "sha256": "ca850a4662f144f49e1a33ae00f4c4d66f0919409e921fb63b774950a4edfd55",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.43.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21624,
+      "sha256": "bb0cebd418fa6d568c4befb7226215356f86962031d47d522e6787e9ebcb8bc2",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.44.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23896,
+      "sha256": "14cf37d42fabfaee5619a9d5385dbc9d5a9f4867be1771f8edbe72b0de4243f8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.45.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 30100,
+      "sha256": "3109f3ef750c0f559ddffeac22c31092faa0e61ffe49fd0059e02ffb8a09568b",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.46.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26984,
+      "sha256": "ff936a7c89b297f06e360731e3b5a2208ae1ca9474917bd5e7e68d3b18c4515a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.47.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26932,
+      "sha256": "68db38419a8b0086bd0effd885851aec3a7fe9303e90dffec72ee00787c5966c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.48.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22772,
+      "sha256": "8b60fd59cea960d2d074f1f494e2ce329e702bf9ea7542c563bc713674c7d3ea",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.49.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24344,
+      "sha256": "bb3ac36b6627477e04cdf46aeca08a05eca31ff4896b029788fee1e2f4e8cc18",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.5.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3856,
+      "sha256": "262053ec4fa7efe7836b6dd5676fedbc617605f561b6aa7ffc49b59b53053d22",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.50.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22016,
+      "sha256": "240f1123cc899c16abcaeae94cec288b2901c0d159c37bbea19f04e85ecbaff7",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.51.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19300,
+      "sha256": "590505f4cd927420fca72b189f6722d113ac7574cc436852b18e53b22cde17ed",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.52.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 24156,
+      "sha256": "909f35dee2bf57c75cf706d89aa41e84ce8a4c03fdb597a060fde9833b311001",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.53.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19988,
+      "sha256": "b9a8ecc5f57817df1375ee0d96503958eb3bf577810a6c7dc89c7dab0d7f21fc",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.54.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23968,
+      "sha256": "861e93d995b05946484f11b56787a80bac9216157efbd90f9f7e22f71f02c517",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.55.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22688,
+      "sha256": "549e121832d8f8182fcfe36bc2bd836d2cdd000536ad5f213e2089ffcf34e81c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.56.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25764,
+      "sha256": "8ce7551720d0f4c6113094f0620ded1a64e73c75f247e3db6b5ece2c7dbd25c0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.57.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25556,
+      "sha256": "d63594f5231193bea0cd1cbc130ee55624d63f865350d32178b598d1cc3b80a1",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.58.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 27376,
+      "sha256": "daf3b5c44879252ea32a9318d10018ce74eeb10284ade8a6a0b5964d58d5a993",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.59.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23372,
+      "sha256": "bb9301aaa941cfbfa6a4ec1dcaf1462b854df39a9ddb83dd36da9e9056c68fcb",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.6.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3332,
+      "sha256": "0918b9128fdc18b7e9f2e8e9c17bcc74a04ad349b7231553554b23104d5eb6e0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.60.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20328,
+      "sha256": "96212fb1cac54a2d0270cd5e3753eb5708395dee102b58a81c4949f1f4b7f131",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.61.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21360,
+      "sha256": "c1eb0da7f5015bd3de42e08166238883ac165b3da01e044852cb3fb4df022c6c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.62.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26384,
+      "sha256": "0a290a3a33e451a09f57362992740318a0cb86f586415d4cfb35c67c24e2d33f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.63.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22080,
+      "sha256": "4406b3fa60c7c38094444f9d5b9e3484eb486607fa3942ffb16e5c39b203caf6",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.64.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18048,
+      "sha256": "878dfdf9c039c1afdb73b4ec3a001d95a5b02ebc583a7691e16c622fd276b37f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.65.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19148,
+      "sha256": "d976ca1905ea4f4cc40f765fe86e0f99462c19bbb51fb3ea23c38f48d298d898",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.66.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 23688,
+      "sha256": "e1309fbf5d4325667dce36812a8660d88b2246b5fdbe4fe140ee249dce5c76eb",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.67.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25888,
+      "sha256": "7f4ef338298564aea39af690efe38b04fa61c4d160ee56982012e35d9efe6797",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.68.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20928,
+      "sha256": "a387a128208d0afb06f2a746100f9eefeab657c62278ac7f4152f2f390645ba1",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.69.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 26544,
+      "sha256": "31049941ce6ea63b3a96bce01d4338e9bdf5f66b848cce2013aa900268c925e8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.70.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 19284,
+      "sha256": "466908ee477e568b4897dec796ead9e562cbc5356c2b3e453610f4070499eb3c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.71.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21388,
+      "sha256": "ead47eefbf32e0230161fbf74ca2b22b130558ff9bb6465712459723e323522a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.72.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 21040,
+      "sha256": "c007f0cafbdbd22df3f406a5aef18114ca137b46f7b22a01656c7bd3e73408f8",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.73.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 17592,
+      "sha256": "72a38c5cdc50ff07528a0d4e358e21714422fd6c81c83e13c21efd4bd9e176fc",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.74.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 25808,
+      "sha256": "b8afbdd98ca232fae14bfa79f1f99711e5887b374c6d53c1813e94f6f3afc13c",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.75.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22120,
+      "sha256": "42e9b2abae3c9c611a145603330a1fd79ddd441556f3f8a9ddab2176c198ddfe",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.76.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22176,
+      "sha256": "bfc993c360af02af24fc6d0d65e3650724c2d16d1f6fc742607ce05bf22955f5",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.77.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 17244,
+      "sha256": "a64c2d460533fb0054cb6241a9d8e886d9ccc0fd00068ad2d17bb9feff77a5e5",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.78.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 22476,
+      "sha256": "af83873e395097de5610eb8baf649442fc71c33a6ddd587cd7be01cebb11c7a4",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.79.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 18504,
+      "sha256": "eb47385ecd74ba3d6cd869e206d4d8f16d67c6d681313b53064b3627ddf3e4f9",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.80.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 14480,
+      "sha256": "551a86e74a89e685ab4d101d4d62e398610d8edaefbe41d3827733f329e9e109",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.81.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20620,
+      "sha256": "427622e5064b74ef75342adfad0a95a5d7072e2f37e0cf946f7b30beefd629d5",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.82.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20456,
+      "sha256": "b55b24c8e733956978fe271eace7d98ffcec916b7d7a8637893e20da1e6afc11",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.83.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 20464,
+      "sha256": "c8140030703d54b655f6d2eac6742a05e7e224dec85e44cab81f565bea761d5e",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.84.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 14668,
+      "sha256": "f0b9cf91efee1872c9dd612eef77a9a81149675550002cac187b50b821167c60",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.85.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 10484,
+      "sha256": "b67f5c2ee6664d9b29f8b8ea0a37ca719e68945a15c93c4050b5a5012bc7ee42",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.86.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 6484,
+      "sha256": "4ea87620f82c6a7fd81b02a39bd39ae841671c8a17edff03aa56dcfe666952ca",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.87.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 1196,
+      "sha256": "09dace8d1d0e2e26146f8253eaa6e8a52054d6ce4fd4dcab9a3b7e1ff0982b47",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.88.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 1648,
+      "sha256": "5085293f0be9ac6ba32f1e77eb9ffb76c12340cfb9b7ae0befcda8fe424c9f80",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.89.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3548,
+      "sha256": "749234fc9ccd2d82c244d018de2e4da3bcc6a1609e718914601be6621cd77a4a",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.90.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4048,
+      "sha256": "350dcc4d22e6ef9190b66b52bc98b3e1c13f9ab46aaec9538c66f0ac4ccff3cf",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.91.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 4284,
+      "sha256": "f61da21897b1713574180cdf35587e7856d6ffdb1ed1e17a1095a73f87a2c3cd",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.97.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 1596,
+      "sha256": "94716308fdfd8a82f3a04df8b7f53bff00333f28c2c98eb4b40018daa09a2518",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.98.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3420,
+      "sha256": "21ef7afaa9d3640f2fbc1255594e404fe172396b2bef8a3240ac2d8b71ed5d96",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.99.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 7396,
+      "sha256": "f36bd815e480d676d9bacc26b2224e82e47935abc7a8bfe65451ee9fac58883f",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.css",
+      "status": 200,
+      "expected": 200,
+      "bytes": 102406,
+      "sha256": "551304ebc9ed31fb73876d94d02011a7cd69a86f36e401904ef334c4c3bd5094",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.cyrillic.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 5892,
+      "sha256": "1b62781972701d389a3a84e0e48bece5e869feaff37bf32117f59a2503e9b3d0",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.latin-ext.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 10904,
+      "sha256": "e8ee7484c3515db8a89bce06238726b919c84fddabfc36fe4b44d9f15731f581",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.latin.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 12608,
+      "sha256": "c85e6e74c2eaa4ad92e4158b23c8e324e49904b3822ef3a024a18c35dc86a980",
+      "passed": true
+    },
+    {
+      "path": "/templates/reachwise/fonts/misans/MiSans-Regular.vietnamese.woff2",
+      "status": 200,
+      "expected": 200,
+      "bytes": 3892,
+      "sha256": "171ee9c2fe95fe2155e3d02bc3605c3ea38f7b64b8d53f69b1c9f9322f99991c",
+      "passed": true
+    }
+  ],
+  "failures": []
+}

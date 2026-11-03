@@ -1,0 +1,1 @@
+export const brand = {"name": {"zh": "Reachwise", "en": "Reachwise"}, "email": "hello@reachwisestudio.com", "year": 2026, "tagline": {"zh": "让合适的人看见你的品牌", "en": "Get seen by the right crowd."}} as const

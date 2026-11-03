@@ -1,0 +1,34 @@
+{
+  "templateId": "reachwise",
+  "status": "passed",
+  "checkedAt": "2026-11-03",
+  "checks": [
+    "每个下载资源的本地文件存在、字节数与SHA256匹配",
+    "全部URL映射目标存在",
+    "下载失败清单为空",
+    "全部栅格图片由ffmpeg实际解码并以ffprobe读取帧像素尺寸",
+    "全部视频完整本地解码；全部SVG解析XML与viewBox"
+  ],
+  "assetCount": 58,
+  "urlAliases": 237,
+  "mappingTargets": 58,
+  "fontFaceCount": 10,
+  "pageCount": 35,
+  "errors": [],
+  "notVerified": [
+    "视频浏览器实际播放、动画与三端页面行为由页面验收完成",
+    "原素材再分发许可未由公开页面确认",
+    "SVG为向量尺寸，未作栅格渲染"
+  ],
+  "mediaDecode": {
+    "templateId": "reachwise",
+    "checkedAt": "2026-11-03T08:16:21.413+00:00",
+    "status": "passed",
+    "imageCount": 48,
+    "videoCount": 0,
+    "rasterDecodedCount": 48,
+    "svgValidatedCount": 0,
+    "failedCount": 0,
+    "skippedCount": 0
+  }
+}

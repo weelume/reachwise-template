@@ -1,0 +1,8 @@
+* text=auto eol=lf
+public/** -text
+.tpl/assets/** -text
+*.png -text
+*.jpg -text
+*.webp -text
+*.woff2 -text
+*.mp4 -text

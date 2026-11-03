@@ -1,0 +1,5 @@
+"use client"
+import{useState}from'react'
+import{motion,AnimatePresence,useReducedMotion}from'framer-motion'
+import type{ReactNode}from'react'
+export function Accordion({items,initial=0}:{items:{title:string;content:ReactNode}[];initial?:number}){const[open,setOpen]=useState(initial),reduced=useReducedMotion();return <div className="accordion">{items.map((item,i)=><div className="accordion-item" key={item.title}><h3><button type="button" aria-expanded={open===i} aria-controls={`accordion-content-${i}`} onClick={()=>setOpen(open===i?-1:i)}><span className="mono">{String(i+1).padStart(2,'0')}</span>{item.title}<span className="accordion-icon" aria-hidden="true" style={{transform:open===i?'rotate(45deg)':'none'}}>+</span></button></h3><AnimatePresence initial={false}>{open===i&&<motion.div id={`accordion-content-${i}`} initial={{height:0,opacity:0}} animate={{height:'auto',opacity:1}} exit={{height:0,opacity:0}} transition={{duration:reduced?0:.6,ease:[.19,.8,.22,1]}}><div className="accordion-body">{item.content}</div></motion.div>}</AnimatePresence></div>)}</div>}

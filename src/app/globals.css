@@ -1,0 +1,1 @@
+html,body{margin:0;padding:0}body{background:#111}*{box-sizing:border-box}button,input,textarea,select{font:inherit}button,a{-webkit-tap-highlight-color:transparent}img,video{max-width:100%}button{cursor:pointer}a{color:inherit}button:disabled{cursor:not-allowed}html{scroll-behavior:smooth}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

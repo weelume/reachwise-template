@@ -1,0 +1,18 @@
+'use client'
+import {useBrand} from '../host'
+import Link from '../components/SiteLink'
+import {Shell} from '../components/Shell'
+import {Section} from '../components/Section'
+import {TeamGrid} from '../components/TeamGrid'
+import {ReviewNotifications} from '../components/ReviewNotifications'
+import {AuditSection} from '../components/AuditSection'
+import {ImageReveal} from '../motion/ImageReveal'
+import {copy,media,text} from '../content/data'
+import type {ReferencePage} from '../content/types'
+import type {SiteTemplatePageProps} from '../../../types'
+export function About({page,locale='zh',basePath}:SiteTemplatePageProps&{page:ReferencePage}){
+ const brand=useBrand(),section=page.sections?.[0]
+ if(!section)throw new Error('About content section is missing')
+ const heading=section.items.find(item=>item.tag==='h1')!,intro=section.items.find(item=>item.tag==='p'&&item.text.length>100)!,timeline=section.items.filter(item=>item.tag==='li'&&/^20\d{2}/.test(item.text)),rules=section.items.flatMap((item,i)=>item.tag==='h3'?[{title:item.text,body:section.items[i+1]?.text??''}]:[]),captions=section.items.filter(item=>item.tag==='figcaption')
+ return <Shell locale={locale} basePath={basePath}><section className="section about-reach-hero"><p className="eyebrow">{copy(locale,`关于 ${brand[locale]}`,`About ${brand[locale]}`)}</p><h1>{text(heading.text,locale)}</h1><p className="lead">{text(intro.text,locale).replaceAll('Reachwise',brand[locale])}</p><ul className="agency-facts">{section.items.filter(item=>item.tag==='li'&&!/^20\d{2}/.test(item.text)).map(item=><li key={item.text}>{text(item.text,locale)}</li>)}</ul><div className="hero-actions"><Link className="primary" href={`${basePath}/contact`}>{copy(locale,'预约沟通','Book a call')}</Link><Link className="secondary" href={`${basePath}/work`}>{copy(locale,'查看案例','See our work')}</Link></div><div className="about-photo-triptych">{section.images.slice(0,3).map((image,i)=><figure key={image.src}><ImageReveal src={media(image.src!)} alt={captions[i]?text(captions[i].text,locale):text(heading.text,locale)} shape={i===1?'arch':'up'} delay={.3+i*.14} parallax={[.6,1.1,.8][i]}/>{captions[i]&&<figcaption>{text(captions[i].text,locale)}</figcaption>}</figure>)}</div></section><Section eyebrow={copy(locale,'(01) 我们的故事','(01) OUR STORY')} title={copy(locale,'十年历程　持续触达','Ten years of reaching people.')}><ol className="agency-timeline">{timeline.map(item=><li key={item.text}><span>{item.text.slice(0,4)}</span><strong>{text(item.text,locale).replace(/^20\d{2}/,'')}</strong></li>)}</ol></Section><Section eyebrow={copy(locale,'(02) 合作方式','(02) HOW WE WORK')} title={copy(locale,'三条始终坚持的原则','Three rules we don’t break.')}><div className="agency-rules">{rules.map((rule,i)=><article key={rule.title}><span>0{i+1}</span><h3>{text(rule.title,locale)}</h3><p>{text(rule.body,locale)}</p></article>)}</div><Link className="agency-hiring" href={`${basePath}/careers`}>{copy(locale,'正在招聘 · 3 个职位','We’re hiring · 3 roles')}<span>{copy(locale,'SEO 策略、社交媒体制作、付费广告','SEO strategist, social media producer, paid ads specialist')}</span></Link></Section><Section eyebrow={copy(locale,'(07) 团队','(07) TEAM')} title={copy(locale,'专精每个领域','Specialists, not generalists.')}><TeamGrid locale={locale} basePath={basePath}/></Section><section className="section dark-section"><div className="reviews-layout"><div><p className="eyebrow">{copy(locale,'客户评价','CLIENT REVIEWS')}</p><h2>{copy(locale,'留下来的客户','Clients who stayed.')}</h2><p className="review-rating">4.9</p><p>★★★★★ · {copy(locale,'126 条客户评价','126 client reviews')}</p></div><ReviewNotifications locale={locale}/></div></section><AuditSection locale={locale}/></Shell>
+}

@@ -1,0 +1,147 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌",
+      "description": "名称、Logo、导航与品牌选项",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/reachwise/config",
+          "kind": "directory",
+          "purpose": "名称、Logo、导航与品牌选项"
+        }
+      ],
+      "constraints": [
+        "保持中英文、三端适配和原交互语义；不增加未批准依赖。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语内容",
+      "description": "页面、翻译及业务集合",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/reachwise/content",
+          "kind": "directory",
+          "purpose": "页面、翻译及业务集合"
+        }
+      ],
+      "constraints": [
+        "保持中英文、三端适配和原交互语义；不增加未批准依赖。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题",
+      "description": "主题令牌与响应式样式",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/reachwise/theme.css",
+          "kind": "file",
+          "purpose": "主题令牌与响应式样式"
+        }
+      ],
+      "constraints": [
+        "保持中英文、三端适配和原交互语义；不增加未批准依赖。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "motion",
+      "title": "动效与交互",
+      "description": "动态视觉和生命周期",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/reachwise/motion",
+          "kind": "directory",
+          "purpose": "动态视觉和生命周期"
+        }
+      ],
+      "constraints": [
+        "保持中英文、三端适配和原交互语义；不增加未批准依赖。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "pages",
+      "title": "页面组合",
+      "description": "页面区块和路由选择",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/reachwise/pages",
+          "kind": "directory",
+          "purpose": "页面区块和路由选择"
+        }
+      ],
+      "constraints": [
+        "保持中英文、三端适配和原交互语义；不增加未批准依赖。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "assets",
+      "title": "运行素材",
+      "description": "本地图像、字体与视频",
+      "files": [
+        {
+          "path": "public/templates/reachwise",
+          "kind": "directory",
+          "purpose": "本地图像、字体与视频"
+        }
+      ],
+      "constraints": [
+        "保持中英文、三端适配和原交互语义；不增加未批准依赖。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "metadata",
+      "title": "展示元数据",
+      "description": "页面登记和真实截图",
+      "files": [
+        {
+          "path": ".tpl/template.json",
+          "kind": "file",
+          "purpose": "页面登记和真实截图"
+        }
+      ],
+      "constraints": [
+        "保持中英文、三端适配和原交互语义；不增加未批准依赖。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    }
+  ]
+}

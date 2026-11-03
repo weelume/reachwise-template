@@ -1,0 +1,3842 @@
+{
+  "templateId": "reachwise",
+  "pages": [
+    {
+      "slug": "",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/0OweuTthx3Dz38pzze75lZw78M.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/18c286b207-0OweuTthx3Dz38pzze75lZw78M.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2400,
+          "decodedHeight": 1340,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/0OweuTthx3Dz38pzze75lZw78M.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/18c286b207-0OweuTthx3Dz38pzze75lZw78M.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2400,
+          "decodedHeight": 1340,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/0OweuTthx3Dz38pzze75lZw78M.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/18c286b207-0OweuTthx3Dz38pzze75lZw78M.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2400,
+          "decodedHeight": 1340,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/csWXqRpXZMLSqxx74oKZj5QkJw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/csWXqRpXZMLSqxx74oKZj5QkJw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/csWXqRpXZMLSqxx74oKZj5QkJw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @kettlebrook.coffee",
+          "sourceUrl": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @brightline.run",
+          "sourceUrl": "https://framerusercontent.com/images/HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d4ae66a90d-HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/uYN9bcKFZFsqzLzQWUSswf4QIs.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/41a6c5b0d7-uYN9bcKFZFsqzLzQWUSswf4QIs.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/3nqFQlS1bXsh1PS74cijri0AhSM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/82b5665b27-3nqFQlS1bXsh1PS74cijri0AhSM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/1DPklcMWo4iq1F5uWVjcytvrsc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bb3791e96f-1DPklcMWo4iq1F5uWVjcytvrsc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/oSWgZWTjPoakKUa7CvtJ6TXueP0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d8468fa5ea-oSWgZWTjPoakKUa7CvtJ6TXueP0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/eMqxq3byjv5ceZYESvRLuMWVug.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bfae02c453-eMqxq3byjv5ceZYESvRLuMWVug.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @brightline.run",
+          "sourceUrl": "https://framerusercontent.com/images/HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d4ae66a90d-HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @fitloop",
+          "sourceUrl": "https://framerusercontent.com/images/yOk3vEq9TQ9CWpwuFmZY86mAVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4b38c6907c-yOk3vEq9TQ9CWpwuFmZY86mAVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/3nqFQlS1bXsh1PS74cijri0AhSM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/82b5665b27-3nqFQlS1bXsh1PS74cijri0AhSM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @kettlebrook.coffee",
+          "sourceUrl": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/oSWgZWTjPoakKUa7CvtJ6TXueP0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d8468fa5ea-oSWgZWTjPoakKUa7CvtJ6TXueP0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/740eb247db-s0jwUqVTFxGplLAwU0WLa8rbdw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @haven.realty",
+          "sourceUrl": "https://framerusercontent.com/images/yg9StsTkn2mS5VxfA3YnyrJNM1Q.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/0cc2b1880e-yg9StsTkn2mS5VxfA3YnyrJNM1Q.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @fitloop",
+          "sourceUrl": "https://framerusercontent.com/images/yOk3vEq9TQ9CWpwuFmZY86mAVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4b38c6907c-yOk3vEq9TQ9CWpwuFmZY86mAVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/740eb247db-s0jwUqVTFxGplLAwU0WLa8rbdw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/YpYjh1duUyRdFMaCaQZ6JVDbmko.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/83ea9e95f4-YpYjh1duUyRdFMaCaQZ6JVDbmko.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/mnE5eA5CunHm89doTbOt2H7pHdE.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c7f74d6e04-mnE5eA5CunHm89doTbOt2H7pHdE.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/1DPklcMWo4iq1F5uWVjcytvrsc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bb3791e96f-1DPklcMWo4iq1F5uWVjcytvrsc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/uYN9bcKFZFsqzLzQWUSswf4QIs.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/41a6c5b0d7-uYN9bcKFZFsqzLzQWUSswf4QIs.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @kettlebrook.coffee",
+          "sourceUrl": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/740eb247db-s0jwUqVTFxGplLAwU0WLa8rbdw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/oSWgZWTjPoakKUa7CvtJ6TXueP0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d8468fa5ea-oSWgZWTjPoakKUa7CvtJ6TXueP0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/mnE5eA5CunHm89doTbOt2H7pHdE.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c7f74d6e04-mnE5eA5CunHm89doTbOt2H7pHdE.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @kettlebrook.coffee",
+          "sourceUrl": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/3nqFQlS1bXsh1PS74cijri0AhSM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/82b5665b27-3nqFQlS1bXsh1PS74cijri0AhSM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/740eb247db-s0jwUqVTFxGplLAwU0WLa8rbdw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/1DPklcMWo4iq1F5uWVjcytvrsc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bb3791e96f-1DPklcMWo4iq1F5uWVjcytvrsc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/YpYjh1duUyRdFMaCaQZ6JVDbmko.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/83ea9e95f4-YpYjh1duUyRdFMaCaQZ6JVDbmko.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/3nqFQlS1bXsh1PS74cijri0AhSM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/82b5665b27-3nqFQlS1bXsh1PS74cijri0AhSM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/uYN9bcKFZFsqzLzQWUSswf4QIs.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/41a6c5b0d7-uYN9bcKFZFsqzLzQWUSswf4QIs.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @fitloop",
+          "sourceUrl": "https://framerusercontent.com/images/yOk3vEq9TQ9CWpwuFmZY86mAVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4b38c6907c-yOk3vEq9TQ9CWpwuFmZY86mAVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @brightline.run",
+          "sourceUrl": "https://framerusercontent.com/images/HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d4ae66a90d-HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/uYN9bcKFZFsqzLzQWUSswf4QIs.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/41a6c5b0d7-uYN9bcKFZFsqzLzQWUSswf4QIs.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @fitloop",
+          "sourceUrl": "https://framerusercontent.com/images/yOk3vEq9TQ9CWpwuFmZY86mAVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4b38c6907c-yOk3vEq9TQ9CWpwuFmZY86mAVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @brightline.run",
+          "sourceUrl": "https://framerusercontent.com/images/HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d4ae66a90d-HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @haven.realty",
+          "sourceUrl": "https://framerusercontent.com/images/yg9StsTkn2mS5VxfA3YnyrJNM1Q.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/0cc2b1880e-yg9StsTkn2mS5VxfA3YnyrJNM1Q.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/eMqxq3byjv5ceZYESvRLuMWVug.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bfae02c453-eMqxq3byjv5ceZYESvRLuMWVug.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/1DPklcMWo4iq1F5uWVjcytvrsc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bb3791e96f-1DPklcMWo4iq1F5uWVjcytvrsc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/oSWgZWTjPoakKUa7CvtJ6TXueP0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d8468fa5ea-oSWgZWTjPoakKUa7CvtJ6TXueP0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/740eb247db-s0jwUqVTFxGplLAwU0WLa8rbdw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @kettlebrook.coffee",
+          "sourceUrl": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @fitloop",
+          "sourceUrl": "https://framerusercontent.com/images/yOk3vEq9TQ9CWpwuFmZY86mAVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4b38c6907c-yOk3vEq9TQ9CWpwuFmZY86mAVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/YpYjh1duUyRdFMaCaQZ6JVDbmko.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/83ea9e95f4-YpYjh1duUyRdFMaCaQZ6JVDbmko.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/oSWgZWTjPoakKUa7CvtJ6TXueP0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d8468fa5ea-oSWgZWTjPoakKUa7CvtJ6TXueP0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @haven.realty",
+          "sourceUrl": "https://framerusercontent.com/images/yg9StsTkn2mS5VxfA3YnyrJNM1Q.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/0cc2b1880e-yg9StsTkn2mS5VxfA3YnyrJNM1Q.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/uYN9bcKFZFsqzLzQWUSswf4QIs.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/41a6c5b0d7-uYN9bcKFZFsqzLzQWUSswf4QIs.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @kettlebrook.coffee",
+          "sourceUrl": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/1DPklcMWo4iq1F5uWVjcytvrsc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bb3791e96f-1DPklcMWo4iq1F5uWVjcytvrsc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @brightline.run",
+          "sourceUrl": "https://framerusercontent.com/images/HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d4ae66a90d-HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/740eb247db-s0jwUqVTFxGplLAwU0WLa8rbdw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/1DPklcMWo4iq1F5uWVjcytvrsc.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bb3791e96f-1DPklcMWo4iq1F5uWVjcytvrsc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/s0jwUqVTFxGplLAwU0WLa8rbdw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/740eb247db-s0jwUqVTFxGplLAwU0WLa8rbdw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @brightline.run",
+          "sourceUrl": "https://framerusercontent.com/images/HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d4ae66a90d-HeKFyo7MfYy7GEQSGOPGXvhVHvo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/3nqFQlS1bXsh1PS74cijri0AhSM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/82b5665b27-3nqFQlS1bXsh1PS74cijri0AhSM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/mnE5eA5CunHm89doTbOt2H7pHdE.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c7f74d6e04-mnE5eA5CunHm89doTbOt2H7pHdE.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @parcel.co",
+          "sourceUrl": "https://framerusercontent.com/images/eMqxq3byjv5ceZYESvRLuMWVug.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bfae02c453-eMqxq3byjv5ceZYESvRLuMWVug.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @fitloop",
+          "sourceUrl": "https://framerusercontent.com/images/yOk3vEq9TQ9CWpwuFmZY86mAVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4b38c6907c-yOk3vEq9TQ9CWpwuFmZY86mAVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1935,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @verde.studio",
+          "sourceUrl": "https://framerusercontent.com/images/3nqFQlS1bXsh1PS74cijri0AhSM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/82b5665b27-3nqFQlS1bXsh1PS74cijri0AhSM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @lumenskin",
+          "sourceUrl": "https://framerusercontent.com/images/oSWgZWTjPoakKUa7CvtJ6TXueP0.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d8468fa5ea-oSWgZWTjPoakKUa7CvtJ6TXueP0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Post by @tallow.kitchen",
+          "sourceUrl": "https://framerusercontent.com/images/uYN9bcKFZFsqzLzQWUSswf4QIs.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/41a6c5b0d7-uYN9bcKFZFsqzLzQWUSswf4QIs.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1341,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Maya Chen, Founder & strategy lead",
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Jordan Reyes, Head of SEO",
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Amara Okafor, Social media director",
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Liam Novak, Paid ads lead",
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Sofia Marín, Content lead",
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Theo Park, Design lead",
+          "sourceUrl": "https://framerusercontent.com/images/LBJSHBzWF5iwJGgfJgtazdyk8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4e2fb5e4f6-LBJSHBzWF5iwJGgfJgtazdyk8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Maya Chen, Founder & strategy lead",
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Jordan Reyes, Head of SEO",
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Amara Okafor, Social media director",
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Liam Novak, Paid ads lead",
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Sofia Marín, Content lead",
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Theo Park, Design lead",
+          "sourceUrl": "https://framerusercontent.com/images/LBJSHBzWF5iwJGgfJgtazdyk8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4e2fb5e4f6-LBJSHBzWF5iwJGgfJgtazdyk8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Maya Chen, Founder & strategy lead",
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Jordan Reyes, Head of SEO",
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Amara Okafor, Social media director",
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Liam Novak, Paid ads lead",
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Sofia Marín, Content lead",
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Theo Park, Design lead",
+          "sourceUrl": "https://framerusercontent.com/images/LBJSHBzWF5iwJGgfJgtazdyk8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4e2fb5e4f6-LBJSHBzWF5iwJGgfJgtazdyk8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/x1XkAfPNF95aDnEhP091G8c03KY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/59df78ccb9-x1XkAfPNF95aDnEhP091G8c03KY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/FkGV79fUruxxZYYaCa5EOB8RME.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5da033fca-FkGV79fUruxxZYYaCa5EOB8RME.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5e382026b-gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/RqmMNLZRFBKyGJxcMWBx21DI85Q.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bc29d85f20-RqmMNLZRFBKyGJxcMWBx21DI85Q.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YYdQD4OSWKjNOGVWs9tCxMobw8I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/dca25f605d-YYdQD4OSWKjNOGVWs9tCxMobw8I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YqwmM7lRs3vsXpr2grgwzyJ62LE.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/b62f249894-YqwmM7lRs3vsXpr2grgwzyJ62LE.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/x1XkAfPNF95aDnEhP091G8c03KY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/59df78ccb9-x1XkAfPNF95aDnEhP091G8c03KY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/FkGV79fUruxxZYYaCa5EOB8RME.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5da033fca-FkGV79fUruxxZYYaCa5EOB8RME.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5e382026b-gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/RqmMNLZRFBKyGJxcMWBx21DI85Q.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bc29d85f20-RqmMNLZRFBKyGJxcMWBx21DI85Q.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YYdQD4OSWKjNOGVWs9tCxMobw8I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/dca25f605d-YYdQD4OSWKjNOGVWs9tCxMobw8I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YqwmM7lRs3vsXpr2grgwzyJ62LE.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/b62f249894-YqwmM7lRs3vsXpr2grgwzyJ62LE.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/x1XkAfPNF95aDnEhP091G8c03KY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/59df78ccb9-x1XkAfPNF95aDnEhP091G8c03KY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/FkGV79fUruxxZYYaCa5EOB8RME.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5da033fca-FkGV79fUruxxZYYaCa5EOB8RME.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5e382026b-gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/RqmMNLZRFBKyGJxcMWBx21DI85Q.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bc29d85f20-RqmMNLZRFBKyGJxcMWBx21DI85Q.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YYdQD4OSWKjNOGVWs9tCxMobw8I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/dca25f605d-YYdQD4OSWKjNOGVWs9tCxMobw8I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YqwmM7lRs3vsXpr2grgwzyJ62LE.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/b62f249894-YqwmM7lRs3vsXpr2grgwzyJ62LE.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/4c6f49e10f-pHOBF7LHy4BbDr36flWPxPYRixo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/87wKn5rFSjsCMUA9My0OUYJ4dM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/3d4123d99e-87wKn5rFSjsCMUA9My0OUYJ4dM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NtmyAnUBIcfQXkgdgwQGB2dIVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/a8f004aadb-NtmyAnUBIcfQXkgdgwQGB2dIVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/4c6f49e10f-pHOBF7LHy4BbDr36flWPxPYRixo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/87wKn5rFSjsCMUA9My0OUYJ4dM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/3d4123d99e-87wKn5rFSjsCMUA9My0OUYJ4dM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NtmyAnUBIcfQXkgdgwQGB2dIVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/a8f004aadb-NtmyAnUBIcfQXkgdgwQGB2dIVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4c6f49e10f-pHOBF7LHy4BbDr36flWPxPYRixo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/87wKn5rFSjsCMUA9My0OUYJ4dM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/3d4123d99e-87wKn5rFSjsCMUA9My0OUYJ4dM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NtmyAnUBIcfQXkgdgwQGB2dIVY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/a8f004aadb-NtmyAnUBIcfQXkgdgwQGB2dIVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "blog/reels-that-sell",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/blog/reels-that-sell",
+      "media": []
+    },
+    {
+      "slug": "about",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/about",
+      "media": [
+        {
+          "tag": "img",
+          "alt": "Monday strategy review",
+          "sourceUrl": "https://framerusercontent.com/images/Od0sLPh3UNsr4tc9mwj2XeBTyb8.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/aca614b1bf-Od0sLPh3UNsr4tc9mwj2XeBTyb8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Content sprint · week 32",
+          "sourceUrl": "https://framerusercontent.com/images/6DvH70VZHpvmLKgVBP6M3k7q0A.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/28da461c36-6DvH70VZHpvmLKgVBP6M3k7q0A.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Client workshop · Lumen Skin",
+          "sourceUrl": "https://framerusercontent.com/images/x7HJbXkyp2obobP3ORbr0NqQ0.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/7374cc8973-x7HJbXkyp2obobP3ORbr0NqQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Maya Chen, Founder & strategy lead",
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Jordan Reyes, Head of SEO",
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Amara Okafor, Social media director",
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Liam Novak, Paid ads lead",
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Sofia Marín, Content lead",
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Theo Park, Design lead",
+          "sourceUrl": "https://framerusercontent.com/images/LBJSHBzWF5iwJGgfJgtazdyk8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4e2fb5e4f6-LBJSHBzWF5iwJGgfJgtazdyk8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/x1XkAfPNF95aDnEhP091G8c03KY.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/59df78ccb9-x1XkAfPNF95aDnEhP091G8c03KY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/FkGV79fUruxxZYYaCa5EOB8RME.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5da033fca-FkGV79fUruxxZYYaCa5EOB8RME.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5e382026b-gv5mT4bQ8T1n4dyt3U0G2Gfwldw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/RqmMNLZRFBKyGJxcMWBx21DI85Q.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bc29d85f20-RqmMNLZRFBKyGJxcMWBx21DI85Q.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YYdQD4OSWKjNOGVWs9tCxMobw8I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/dca25f605d-YYdQD4OSWKjNOGVWs9tCxMobw8I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YqwmM7lRs3vsXpr2grgwzyJ62LE.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/b62f249894-YqwmM7lRs3vsXpr2grgwzyJ62LE.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "blog/roas-is-not-profit",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/blog/roas-is-not-profit",
+      "media": []
+    },
+    {
+      "slug": "blog/local-seo-2026",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/blog/local-seo-2026",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/4c6f49e10f-pHOBF7LHy4BbDr36flWPxPYRixo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/87wKn5rFSjsCMUA9My0OUYJ4dM.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/3d4123d99e-87wKn5rFSjsCMUA9My0OUYJ4dM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NtmyAnUBIcfQXkgdgwQGB2dIVY.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/a8f004aadb-NtmyAnUBIcfQXkgdgwQGB2dIVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/5NYoUMxcMZ7W73IVonEHOzeu5ls.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/5d470dc7a3-5NYoUMxcMZ7W73IVonEHOzeu5ls.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "blog",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/blog",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/4c6f49e10f-pHOBF7LHy4BbDr36flWPxPYRixo.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/87wKn5rFSjsCMUA9My0OUYJ4dM.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/3d4123d99e-87wKn5rFSjsCMUA9My0OUYJ4dM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NtmyAnUBIcfQXkgdgwQGB2dIVY.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/a8f004aadb-NtmyAnUBIcfQXkgdgwQGB2dIVY.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/5NYoUMxcMZ7W73IVonEHOzeu5ls.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/5d470dc7a3-5NYoUMxcMZ7W73IVonEHOzeu5ls.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/2JG0A1F7J2tdiUI5Y6YXMfSc.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/0fe0dbe797-2JG0A1F7J2tdiUI5Y6YXMfSc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/P2vtvmpcIxWwVrN78FW1tzLdNs.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/7055139055-P2vtvmpcIxWwVrN78FW1tzLdNs.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1116,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "careers",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/careers",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "cookies",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/cookies",
+      "media": []
+    },
+    {
+      "slug": "contact",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/contact",
+      "media": []
+    },
+    {
+      "slug": "privacy",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/privacy",
+      "media": []
+    },
+    {
+      "slug": "pricing",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/pricing",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "services/branding",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/services/branding",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "services/content",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/services/content",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/csWXqRpXZMLSqxx74oKZj5QkJw.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "services",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/services",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "services/paid-ads",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/services/paid-ads",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "services/seo",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/services/seo",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/csWXqRpXZMLSqxx74oKZj5QkJw.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "services/web-design",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/services/web-design",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "services/social-media",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/services/social-media",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/xbfdpTvZzzafiJOwtXCs0luyp2I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/8caa8c026e-xbfdpTvZzzafiJOwtXCs0luyp2I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1080,
+          "decodedHeight": 1080,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "team/amara-okafor",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/team/amara-okafor",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Amara Okafor, Social media director",
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/LBJSHBzWF5iwJGgfJgtazdyk8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4e2fb5e4f6-LBJSHBzWF5iwJGgfJgtazdyk8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "team/jordan-reyes",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/team/jordan-reyes",
+      "media": []
+    },
+    {
+      "slug": "team/sofia-marin",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/team/sofia-marin",
+      "media": []
+    },
+    {
+      "slug": "team/maya-chen",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/team/maya-chen",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Maya Chen, Founder & strategy lead",
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/LBJSHBzWF5iwJGgfJgtazdyk8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4e2fb5e4f6-LBJSHBzWF5iwJGgfJgtazdyk8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "team/liam-novak",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/team/liam-novak",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": "Liam Novak, Paid ads lead",
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/LBJSHBzWF5iwJGgfJgtazdyk8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/4e2fb5e4f6-LBJSHBzWF5iwJGgfJgtazdyk8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "terms",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/terms",
+      "media": []
+    },
+    {
+      "slug": "team/theo-park",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/team/theo-park",
+      "media": []
+    },
+    {
+      "slug": "work/northside-dental",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/work/northside-dental",
+      "media": [
+        {
+          "tag": "img",
+          "alt": "Northside Dental — From page 4 to the top 3 for “dentist near me”",
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YqwmM7lRs3vsXpr2grgwzyJ62LE.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/b62f249894-YqwmM7lRs3vsXpr2grgwzyJ62LE.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "work",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/work",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/iQ0lX69C3YgeRjqffxWadnnAmnc.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/245d60c350-iQ0lX69C3YgeRjqffxWadnnAmnc.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/csWXqRpXZMLSqxx74oKZj5QkJw.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/csWXqRpXZMLSqxx74oKZj5QkJw.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "work/haven-realty",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/work/haven-realty",
+      "media": []
+    },
+    {
+      "slug": "blog/agency-or-in-house",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/blog/agency-or-in-house",
+      "media": []
+    },
+    {
+      "slug": "blog/landing-pages",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/blog/landing-pages",
+      "media": []
+    },
+    {
+      "slug": "blog/content-calendar",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/blog/content-calendar",
+      "media": []
+    },
+    {
+      "slug": "work/orbit-legal",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/work/orbit-legal",
+      "media": []
+    },
+    {
+      "slug": "work/kettlebrook-coffee",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/work/kettlebrook-coffee",
+      "media": [
+        {
+          "tag": "img",
+          "alt": "Kettlebrook Coffee — A coffee brand people film for us",
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/myjp4zr3op66cJhewFtasNpY5I.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/fbbf0073c4-myjp4zr3op66cJhewFtasNpY5I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/YYdQD4OSWKjNOGVWs9tCxMobw8I.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/dca25f605d-YYdQD4OSWKjNOGVWs9tCxMobw8I.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "work/lumen-skin",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/work/lumen-skin",
+      "media": [
+        {
+          "tag": "img",
+          "alt": "Lumen Skin — A skincare launch that sold out twice",
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/27c82cccd3-QSuLrUGcfrrneXqjDG4ZKyC91Gk.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/FkGV79fUruxxZYYaCa5EOB8RME.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/d5da033fca-FkGV79fUruxxZYYaCa5EOB8RME.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/csWXqRpXZMLSqxx74oKZj5QkJw.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/d6d0e6e673-csWXqRpXZMLSqxx74oKZj5QkJw.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "work/fitloop",
+      "referenceUrl": "https://joyful-studies-761814.framer.app/work/fitloop",
+      "media": [
+        {
+          "tag": "img",
+          "alt": "Fitloop — Paid ads that pay for themselves in 11 days",
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp?scale-down-to=2048",
+          "localPath": "/templates/reachwise/media/5ed88059ed-hd4rblq8DW7sPIt8FWcRq1HdmQ0.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/RqmMNLZRFBKyGJxcMWBx21DI85Q.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/bc29d85f20-RqmMNLZRFBKyGJxcMWBx21DI85Q.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 800,
+          "decodedHeight": 800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/zEqvjQAlVPs2PE6oz2TsexQ8TA.webp?scale-down-to=1024",
+          "localPath": "/templates/reachwise/media/a67b8e519f-zEqvjQAlVPs2PE6oz2TsexQ8TA.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 2000,
+          "decodedHeight": 1342,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/9508e27bdd-HxGAwVNM9ZaaBu6N5yRyWcYxYQM.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/c2880e2123-JXNHKwjRlDqIdZuxCrbzCaz9Td8.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/371lVaDSMdqEsHSlTLGeKl7650.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/94b5dacda6-371lVaDSMdqEsHSlTLGeKl7650.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NmkpUVq1OjshWo3MRYHXbDUFJGU.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/457bff0b16-NmkpUVq1OjshWo3MRYHXbDUFJGU.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/wTEJQWR3N9EVhTU88mXAPHBq5g4.webp?scale-down-to=512",
+          "localPath": "/templates/reachwise/media/f477a0a877-wTEJQWR3N9EVhTU88mXAPHBq5g4.webp",
+          "declaredWidth": null,
+          "declaredHeight": null,
+          "decodedWidth": 1200,
+          "decodedHeight": 1607,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    }
+  ]
+}

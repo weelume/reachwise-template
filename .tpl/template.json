@@ -1,0 +1,405 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "reachwise",
+  "version": "1.0.0",
+  "name": "Reachwise · 数字营销与增长",
+  "gitUrl": "https://github.com/weelume/reachwise-template",
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "数字营销与增长",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "summary": "服务、团队、案例、文章、报价、招聘、审计咨询及政策占位；WebGL 照片扫描、人群筛选、服务图形、案例分隔拖动、滚动漏斗、报表、社交墙、通知栈。",
+  "accentColor": "#d0ff00",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "首页 · desktop",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/desktop-features.webp",
+      "alt": "解决方案 · desktop",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "services"
+    },
+    {
+      "src": "assets/desktop-blog.webp",
+      "alt": "博客 · desktop",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "blog"
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "联系 · desktop",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "首页 · tablet",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-features.webp",
+      "alt": "解决方案 · tablet",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "services"
+    },
+    {
+      "src": "assets/tablet-blog.webp",
+      "alt": "博客 · tablet",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "blog"
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "联系 · tablet",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "首页 · mobile",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-features.webp",
+      "alt": "解决方案 · mobile",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "services"
+    },
+    {
+      "src": "assets/mobile-blog.webp",
+      "alt": "博客 · mobile",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "blog"
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "联系 · mobile",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "响应式官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "让对的人 看见你",
+          "localizedTitles": {
+            "en": "Get seen bythe right crowd."
+          }
+        },
+        {
+          "slug": "blog/reels-that-sell",
+          "title": "能带来销售的短视频：我们为每位客户采用的3秒法则",
+          "localizedTitles": {
+            "en": "Reels that sell: the 3-second rule we use for every client"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "让品牌 出现在人们面前",
+          "localizedTitles": {
+            "en": "We put brands in front of people."
+          }
+        },
+        {
+          "slug": "blog/roas-is-not-profit",
+          "title": "ROAS不等于利润：我们如何汇报付费广告",
+          "localizedTitles": {
+            "en": "ROAS is not profit: how we report paid ads"
+          }
+        },
+        {
+          "slug": "blog/local-seo-2026",
+          "title": "2026年本地SEO：哪些因素仍能提升地图排名",
+          "localizedTitles": {
+            "en": "Local SEO in 2026: what still moves the map pack"
+          }
+        },
+        {
+          "slug": "blog",
+          "title": "先验证 再分享",
+          "localizedTitles": {
+            "en": "Ideas we test first."
+          }
+        },
+        {
+          "slug": "careers",
+          "title": "和我们一起 帮助品牌成长",
+          "localizedTitles": {
+            "en": "Grow brands with us."
+          }
+        },
+        {
+          "slug": "cookies",
+          "title": "Cookie政策",
+          "localizedTitles": {
+            "en": "Cookies"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "让你 被看见",
+          "localizedTitles": {
+            "en": "Let's get you seen."
+          }
+        },
+        {
+          "slug": "privacy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy"
+          }
+        },
+        {
+          "slug": "pricing",
+          "title": "清晰的月度服务方案",
+          "localizedTitles": {
+            "en": "Simple monthly retainers."
+          }
+        },
+        {
+          "slug": "services/branding",
+          "title": "品牌设计",
+          "localizedTitles": {
+            "en": "Branding"
+          }
+        },
+        {
+          "slug": "services/content",
+          "title": "内容",
+          "localizedTitles": {
+            "en": "Content"
+          }
+        },
+        {
+          "slug": "services",
+          "title": "六大渠道 一套增长计划",
+          "localizedTitles": {
+            "en": "Six channels. One growth plan."
+          }
+        },
+        {
+          "slug": "services/paid-ads",
+          "title": "付费广告",
+          "localizedTitles": {
+            "en": "Paid ads"
+          }
+        },
+        {
+          "slug": "services/seo",
+          "title": "SEO",
+          "localizedTitles": {
+            "en": "SEO"
+          }
+        },
+        {
+          "slug": "services/web-design",
+          "title": "网站设计",
+          "localizedTitles": {
+            "en": "Web design"
+          }
+        },
+        {
+          "slug": "services/social-media",
+          "title": "社交媒体",
+          "localizedTitles": {
+            "en": "Social media"
+          }
+        },
+        {
+          "slug": "team/amara-okafor",
+          "title": "Amara Okafor",
+          "localizedTitles": {
+            "en": "Amara Okafor"
+          }
+        },
+        {
+          "slug": "team/jordan-reyes",
+          "title": "Jordan Reyes",
+          "localizedTitles": {
+            "en": "Jordan Reyes"
+          }
+        },
+        {
+          "slug": "team/sofia-marin",
+          "title": "Sofia Marín",
+          "localizedTitles": {
+            "en": "Sofia Marín"
+          }
+        },
+        {
+          "slug": "team/maya-chen",
+          "title": "Maya Chen",
+          "localizedTitles": {
+            "en": "Maya Chen"
+          }
+        },
+        {
+          "slug": "team/liam-novak",
+          "title": "Liam Novak",
+          "localizedTitles": {
+            "en": "Liam Novak"
+          }
+        },
+        {
+          "slug": "terms",
+          "title": "服务条款",
+          "localizedTitles": {
+            "en": "Terms"
+          }
+        },
+        {
+          "slug": "team/theo-park",
+          "title": "Theo Park",
+          "localizedTitles": {
+            "en": "Theo Park"
+          }
+        },
+        {
+          "slug": "work/northside-dental",
+          "title": "“附近的牙医”搜索 从第4页进入前3名",
+          "localizedTitles": {
+            "en": "From page 4 to the top 3 for “dentist near me”"
+          }
+        },
+        {
+          "slug": "work",
+          "title": "成果 经得起计算",
+          "localizedTitles": {
+            "en": "Results you can count."
+          }
+        },
+        {
+          "slug": "work/haven-realty",
+          "title": "带来卖家线索 而非只有点击",
+          "localizedTitles": {
+            "en": "A pipeline of sellers, not just clicks"
+          }
+        },
+        {
+          "slug": "blog/agency-or-in-house",
+          "title": "选机构还是内部团队？一次坦诚比较",
+          "localizedTitles": {
+            "en": "Agency or in-house? An honest comparison"
+          }
+        },
+        {
+          "slug": "blog/landing-pages",
+          "title": "让转化翻倍的五项落地页修复",
+          "localizedTitles": {
+            "en": "Five landing page fixes that doubled conversions"
+          }
+        },
+        {
+          "slug": "blog/content-calendar",
+          "title": "我们提供给每位客户的单页内容日历",
+          "localizedTitles": {
+            "en": "The one-page content calendar we give every client"
+          }
+        },
+        {
+          "slug": "work/orbit-legal",
+          "title": "能预约到咨询的专业观点内容",
+          "localizedTitles": {
+            "en": "Thought leadership that books consultations"
+          }
+        },
+        {
+          "slug": "work/kettlebrook-coffee",
+          "title": "让人主动拍摄的咖啡品牌",
+          "localizedTitles": {
+            "en": "A coffee brand people film for us"
+          }
+        },
+        {
+          "slug": "work/lumen-skin",
+          "title": "两次售罄的护肤品牌发布",
+          "localizedTitles": {
+            "en": "A skincare launch that sold out twice"
+          }
+        },
+        {
+          "slug": "work/fitloop",
+          "title": "11天即可回本的付费广告",
+          "localizedTitles": {
+            "en": "Paid ads that pay for themselves in 11 days"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "unlicensed",
+    "file": "docs/LICENSE.md",
+    "summary": "待作者确认源码与素材授权范围。",
+    "redistributionAllowed": false
+  },
+  "localizedNames": {
+    "en": "Reachwise"
+  },
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "framer-motion"
+  ],
+  "localizedSummaries": {
+    "en": "Bilingual responsive growth marketing agency website with local assets and interactive motion."
+  }
+}

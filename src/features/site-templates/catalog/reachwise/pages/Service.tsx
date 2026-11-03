@@ -1,0 +1,18 @@
+'use client'
+import {useEffect,useRef,useState} from 'react'
+import {useInView,useReducedMotion} from 'framer-motion'
+import Link from '../components/SiteLink'
+import {Shell} from '../components/Shell'
+import {ServiceDemo} from '../components/ServiceChannels'
+import {AuditSection} from '../components/AuditSection'
+import {WorkCard} from '../components/WorkCard'
+import {services,work} from '../content/collections'
+import {copy,text} from '../content/data'
+import type {SiteTemplatePageProps} from '../../../types'
+export function Service({slug,locale='zh',basePath}:SiteTemplatePageProps&{slug:string}){
+ const index=services.findIndex(item=>`services/${item.slug}`===slug),service=services[index],root=useRef<HTMLDivElement>(null),visible=useInView(root),reduced=useReducedMotion(),[step,setStep]=useState(0)
+ if(!service)throw new Error(`Service not registered: ${slug}`)
+ const steps=service.f5.split(';'),proof=work.filter(item=>item.f4.split(';').includes(service.f1))
+ useEffect(()=>{if(!visible||reduced)return;const timer=setInterval(()=>setStep(value=>(value+1)%steps.length),1600);return()=>clearInterval(timer)},[visible,reduced,steps.length])
+ return <Shell locale={locale} basePath={basePath}><section className="section service-detail" ref={root}><div><p className="eyebrow">{copy(locale,'服务','Service')} {String(index+1).padStart(2,'0')}</p><h1>{text(service.f1,locale)}</h1><h2 className="service-positioning">{text(service.f2,locale)}</h2><p className="lead">{text(service.f3,locale)}</p><p className="service-detail-price">{copy(locale,'起价','From')} {service.f4}</p><span className="outcome-chip">{text(service.f7,locale)}</span><div className="hero-actions"><Link className="primary" href={`${basePath}/contact`}>{copy(locale,'预约沟通','Book a call')}</Link><Link className="secondary" href="#proof">{copy(locale,'查看成果','See the results')}</Link></div><div className="service-deliverables"><p className="eyebrow">{copy(locale,'包含内容','What’s included')}</p><h2>{copy(locale,'每月交付　清楚可见','What you get every month.')}</h2><ol>{steps.map((item,i)=><li key={item} className={reduced||i<=step?'is-complete':''}><span>{reduced||i<step?'✓':String(i+1).padStart(2,'0')}</span><div><small>{copy(locale,'步骤','Step')} {String(i+1).padStart(2,'0')}</small><strong>{text(item,locale)}</strong></div></li>)}</ol></div></div><aside className="service-live-preview"><ServiceDemo mode={index} locale={locale}/><div><span className="live-indicator">{copy(locale,'实时预览','Live preview')}</span><strong>{text(service.f1,locale)}</strong><span>0{index+1} / 0{services.length}</span></div><div className="service-preview-status"><span>✓ {text(steps[reduced?steps.length-1:step],locale)}</span><small>{copy(locale,'步骤','Step')} {String((reduced?steps.length-1:step)+1).padStart(2,'0')} / {String(steps.length).padStart(2,'0')}</small></div></aside></section><section id="proof" className="section dark-section service-proof"><p className="eyebrow">{copy(locale,'成果证明','Proof')}</p><h2>{copy(locale,'来自这个渠道的真实成果','Results from this channel.')}</h2><p>{copy(locale,'真实客户、清楚的数字，以及你每月都会收到的同一份报告。','Real clients, real numbers, the same monthly report you’ll get.')}</p><div className="proof-grid">{proof.map(item=><WorkCard key={item.slug} item={item} locale={locale} basePath={basePath}/>)}</div></section><nav className="section other-services" aria-label={copy(locale,'其他服务','Other services')}><h2>{copy(locale,'其他服务','Other services')}</h2>{services.filter(item=>item.slug!==service.slug).map(item=><Link key={item.slug} href={`${basePath}/services/${item.slug}`}>{text(item.f1,locale)}</Link>)}</nav><AuditSection locale={locale}/></Shell>
+}

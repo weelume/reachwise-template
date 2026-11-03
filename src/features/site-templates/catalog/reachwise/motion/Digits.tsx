@@ -1,0 +1,3 @@
+'use client'
+import{useReducedMotion}from'framer-motion'
+export function Digits({value,locale='en'}:{value:number|string;locale?:'zh'|'en'}){const reduced=useReducedMotion(),label=typeof value==='number'?value.toLocaleString(locale==='zh'?'zh-CN':'en-US'):value;return <span className="rolling-number" aria-label={label}>{[...label].map((character,i)=>/\d/.test(character)?<span className="number-slot" aria-hidden="true" key={i}><span className="number-strip" style={{transform:`translateY(-${Number(character)*10}%)`,transitionDuration:reduced?'0s':'.8s',transitionDelay:reduced?'0s':`${Math.min(i*.05,.2)}s`}}>{Array.from({length:10},(_,digit)=><span key={digit}>{digit}</span>)}</span></span>:<span aria-hidden="true" key={i}>{character}</span>)}</span>}

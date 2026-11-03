@@ -1,0 +1,87 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-11-03T11:39:34.815Z",
+  "sourceCommit": null,
+  "sourceDigest": "bfbc83e88c561d29e535dbe5d0df0bf00448eb2876740a76812e5b1770f49999",
+  "environment": {
+    "platform": "linux (local WSL, Linux filesystem)",
+    "arch": "x64",
+    "node": "24.16.0",
+    "packageManager": "pnpm@9.15.4",
+    "cleanDirectory": true,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T11:30:45.498Z",
+      "finishedAt": "2026-11-03T11:30:48.473Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T11:30:48.476Z",
+      "finishedAt": "2026-11-03T11:30:55.238Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T11:30:55.242Z",
+      "finishedAt": "2026-11-03T11:31:17.517Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T11:31:17.521Z",
+      "finishedAt": "2026-11-03T11:31:17.923Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-11-03T11:39:34.815Z",
+      "reason": "生产启动、全量路由及静态素材HTTP验证、内置浏览器巡检通过；已停止本次启动的验收进程。"
+    }
+  ],
+  "limitations": [
+    "使用桌面内置浏览器模拟三端与320px窄屏，未在真实iOS/iPadOS硬件验证触控、惯性或系统覆盖式滚动条。",
+    "原站全部页面、全部动效的逐项初始/运行/终态及精确时序对照未全部完成；本报告只确认记录中的运行子项，不声明逐帧精确一致。",
+    "减少动态效果分支已有实现与源码检查，未实际切换系统偏好完成全站验收。",
+    "原生滚动条拖动/悬停未三端定量比较；实际指针拖拽释放与触控回弹未完整验证，案例对比已验证键盘范围。",
+    "参考站设计、图片、视频商业再分发授权尚未确认，listed=false。"
+  ]
+}
