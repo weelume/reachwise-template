@@ -1,6 +1,6 @@
 {
   "template": "reachwise",
-  "checkedAt": "2026-11-03T11:37:43.841Z",
+  "checkedAt": "2026-11-03T12:25:56.204Z",
   "origin": "http://localhost:3113",
   "routes": 70,
   "assets": 266,
@@ -9,7 +9,7 @@
       "path": "/",
       "status": 200,
       "expected": 200,
-      "bytes": 103842,
+      "bytes": 105937,
       "sha256": null,
       "passed": true
     },
@@ -17,7 +17,7 @@
       "path": "/en/",
       "status": 200,
       "expected": 200,
-      "bytes": 103491,
+      "bytes": 105513,
       "sha256": null,
       "passed": true
     },
@@ -217,7 +217,7 @@
       "path": "/services",
       "status": 200,
       "expected": 200,
-      "bytes": 92951,
+      "bytes": 95046,
       "sha256": null,
       "passed": true
     },
@@ -225,7 +225,7 @@
       "path": "/en/services",
       "status": 200,
       "expected": 200,
-      "bytes": 93141,
+      "bytes": 95163,
       "sha256": null,
       "passed": true
     },

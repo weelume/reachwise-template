@@ -1,6 +1,6 @@
 {
   "template": "reachwise",
-  "checkedAt": "2026-11-03T11:49:56.673Z",
+  "checkedAt": "2026-11-03T12:25:57.059Z",
   "tool": "ChatGPT in-app browser",
   "routeCombinations": 280,
   "viewports": [
@@ -7136,6 +7136,314 @@
         "h1": "Six channels. One growth plan."
       },
       "checkedAt": "2026-11-03T11:38:43.565Z"
+    },
+    {
+      "id": "reachwise",
+      "name": "funnel-101-mobile-initial",
+      "result": {
+        "desktop": "none",
+        "flat": "block",
+        "overflow": false,
+        "rows": [
+          {
+            "active": true,
+            "count": "1,284,300",
+            "fill": "none",
+            "width": "100%"
+          },
+          {
+            "active": true,
+            "count": "48,120",
+            "fill": "none",
+            "width": "88%"
+          },
+          {
+            "active": true,
+            "count": "2,940",
+            "fill": "none",
+            "width": "76%"
+          },
+          {
+            "active": false,
+            "count": "0",
+            "fill": "scaleX(0)",
+            "width": "64%"
+          }
+        ],
+        "w": 390
+      },
+      "checkedAt": "2026-11-03T12:23:58.966Z"
+    },
+    {
+      "id": "reachwise",
+      "name": "funnel-101-mobile-final",
+      "result": {
+        "desktop": "none",
+        "flat": "block",
+        "overflow": false,
+        "rows": [
+          {
+            "active": true,
+            "count": "1,284,300",
+            "fill": "none",
+            "width": "100%"
+          },
+          {
+            "active": true,
+            "count": "48,120",
+            "fill": "none",
+            "width": "88%"
+          },
+          {
+            "active": true,
+            "count": "2,940",
+            "fill": "none",
+            "width": "76%"
+          },
+          {
+            "active": true,
+            "count": "312",
+            "fill": "none",
+            "width": "64%"
+          }
+        ],
+        "w": 390
+      },
+      "checkedAt": "2026-11-03T12:24:13.580Z"
+    },
+    {
+      "id": "reachwise",
+      "name": "funnel-101-834-final",
+      "result": {
+        "initial": {
+          "desktop": "none",
+          "flat": "block",
+          "overflow": false,
+          "rows": [
+            {
+              "active": false,
+              "count": "0",
+              "fill": "scaleX(0)",
+              "width": "100%"
+            },
+            {
+              "active": false,
+              "count": "0",
+              "fill": "scaleX(0)",
+              "width": "88%"
+            },
+            {
+              "active": false,
+              "count": "0",
+              "fill": "scaleX(0)",
+              "width": "76%"
+            },
+            {
+              "active": false,
+              "count": "0",
+              "fill": "scaleX(0)",
+              "width": "64%"
+            }
+          ],
+          "w": 834
+        },
+        "entering": {
+          "rows": [
+            {
+              "active": true,
+              "bar": "100%",
+              "count": "82,340",
+              "fill": "scaleX(0)",
+              "y": 513.1041870117188
+            },
+            {
+              "active": true,
+              "bar": "88%",
+              "count": "1,495",
+              "fill": "scaleX(0)",
+              "y": 809.7604370117188
+            },
+            {
+              "active": false,
+              "bar": "76%",
+              "count": "0",
+              "fill": "scaleX(0)",
+              "y": 1106.416748046875
+            },
+            {
+              "active": false,
+              "bar": "64%",
+              "count": "0",
+              "fill": "scaleX(0)",
+              "y": 1403.072998046875
+            }
+          ],
+          "scrollY": 4438.66650390625
+        },
+        "final": {
+          "desktop": "none",
+          "flat": "block",
+          "overflow": false,
+          "rows": [
+            {
+              "active": true,
+              "count": "1,284,300",
+              "fill": "none",
+              "width": "100%"
+            },
+            {
+              "active": true,
+              "count": "48,120",
+              "fill": "none",
+              "width": "88%"
+            },
+            {
+              "active": true,
+              "count": "2,940",
+              "fill": "none",
+              "width": "76%"
+            },
+            {
+              "active": true,
+              "count": "312",
+              "fill": "none",
+              "width": "64%"
+            }
+          ],
+          "w": 834
+        },
+        "logs": []
+      },
+      "checkedAt": "2026-11-03T12:24:26.697Z"
+    },
+    {
+      "id": "reachwise",
+      "name": "funnel-101-320-final",
+      "result": {
+        "initial": {
+          "desktop": "none",
+          "flat": "block",
+          "overflow": false,
+          "rows": [
+            {
+              "active": false,
+              "count": "0",
+              "fill": "scaleX(0)",
+              "width": "100%"
+            },
+            {
+              "active": false,
+              "count": "0",
+              "fill": "scaleX(0)",
+              "width": "88%"
+            },
+            {
+              "active": false,
+              "count": "0",
+              "fill": "scaleX(0)",
+              "width": "76%"
+            },
+            {
+              "active": false,
+              "count": "0",
+              "fill": "scaleX(0)",
+              "width": "64%"
+            }
+          ],
+          "w": 320
+        },
+        "entering": {
+          "rows": [
+            {
+              "active": true,
+              "bar": "100%",
+              "count": "106,595",
+              "fill": "scaleX(0)",
+              "y": 206.70834350585935
+            },
+            {
+              "active": true,
+              "bar": "88%",
+              "count": "1,896",
+              "fill": "scaleX(0)",
+              "y": 520.9583740234375
+            },
+            {
+              "active": false,
+              "bar": "76%",
+              "count": "0",
+              "fill": "scaleX(0)",
+              "y": 810.0104370117188
+            },
+            {
+              "active": false,
+              "bar": "64%",
+              "count": "0",
+              "fill": "scaleX(0)",
+              "y": 1099.0625
+            }
+          ],
+          "scrollY": 5641.33349609375
+        },
+        "final": {
+          "desktop": "none",
+          "flat": "block",
+          "overflow": false,
+          "rows": [
+            {
+              "active": true,
+              "count": "1,284,300",
+              "fill": "none",
+              "width": "100%"
+            },
+            {
+              "active": true,
+              "count": "48,120",
+              "fill": "none",
+              "width": "88%"
+            },
+            {
+              "active": true,
+              "count": "2,940",
+              "fill": "none",
+              "width": "76%"
+            },
+            {
+              "active": true,
+              "count": "312",
+              "fill": "none",
+              "width": "64%"
+            }
+          ],
+          "w": 320
+        },
+        "logs": []
+      },
+      "checkedAt": "2026-11-03T12:24:26.717Z"
+    },
+    {
+      "id": "reachwise",
+      "name": "funnel-101-desktop-final",
+      "result": {
+        "counts": [
+          "1,204,123",
+          "43,407",
+          "2,540",
+          "255"
+        ],
+        "desktop": "grid",
+        "fills": [
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "flat": "none",
+        "overflow": false,
+        "sticky": "sticky",
+        "w": 1440
+      },
+      "checkedAt": "2026-11-03T12:25:47.960Z"
     }
   ],
   "interpretation": "保留初始和过渡状态原始记录，以settled、final和修复复测记录判定终态；案例标签在内部横向滚动区中的越界为有意设计，Waytech隐藏评价的入场偏移不是可见裁切。",
